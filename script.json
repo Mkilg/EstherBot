@@ -5,6 +5,7 @@
     "TWITTER": "You can see Marie's Twitter profile here: %[Twitter](https://twitter.com/mkilg_official)",
     "HALLO": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:funfact) %[Was macht sie gerade?](postback:aktuell)",
     "ERZÄHL": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:FUNFACT)\n%[Was macht sie gerade?](postback:aktuell)",
+    "UND SONST SO?": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:FUNFACT)\n%[Was macht sie gerade?](postback:aktuell)",
     "ICH LIEBE DICH": "Oh. Guck mal! Chemtrails!",
     "WAS FÜHLST DU?": "Ich kann nicht so gut mit Gefühlen... :/",
     "I LOVE YOU": "This is going a little fast for me",
