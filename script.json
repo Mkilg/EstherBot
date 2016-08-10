@@ -35,8 +35,8 @@
     "HAT SIE GESCHWISTER?": "Ja, einen Bruder.",
     "WIE HEIßT DER?": "Frag sie das am Besten selbst: %[Nachricht schreiben](mailto:marie@kilg.de)",
     "WAS MAG SIE FÜR MUSIK?": "Frag sie das am Besten selbst: %[Nachricht schreiben](mailto:marie@kilg.de)",
-    "WIE ALT IST MARIE?": "24."
-    "WIE ALT IST SIE?": "24."
+    "WIE ALT IST MARIE?": "24.",
+    "WIE ALT IST SIE?": "24.",
     "AKTUELL": "Gerade ist Marie in der Arbeit.\n In der Allianz Arena.\nSie erzählt wahrscheinlich gerade Kindern, wie sie mal Jerome Boateng getroffen hat.\n Spannend, ich weiß.",
     "HAT SIE PLÄNE?": "Im September geht sie zur taz nach Berlin für 3 Monate.",
     "HAT MARIE PLÄNE?": "Im September geht sie zur taz nach Berlin für 3 Monate.",
@@ -47,6 +47,8 @@
     "IST SIE VERGEBEN?": "Ja.",
     "IST MARIE VERGEBEN?": "Ja.",
     "AN WEN?": "Frag sie das am Besten selbst: %[Nachricht schreiben](mailto:marie@kilg.de)",
+    "DU BIST DUMM": "Nein, ich bin MKII.",
+    "DU BIST DOOF": "Nein, ich bin MKII.",
     "DU BIST SCHEIßE": "Nein, ich bin MKII.",
     "NEIN": "...",
     "CONNECT ME": "",
