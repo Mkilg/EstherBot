@@ -11,6 +11,12 @@
     "LEBENSLAUF": "Marie wurde 1992 in München geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium, machte ein recht gutes Abi (1,2), studierte Amerikanistik und Kommunikationswissenschaften an der LMU in München, schloss mit einem Bachelor ab (1,7) und besuchte danach die Deutsche Journalistenschule in Berg am Laim. Was sie dort so gemacht hat, kannst du hier sehen: %[Website](postback:website)\nWoa. Laberflasch.",
     "WEBSITE": "Sie hat noch keine Website...\nLame, ich weiß.\nIch sag ihr das jeden Tag.",
     "NACHRICHT SENDEN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
+    "GUTEN TAG": "Hallo, Lukas. Marie hat mir viel von dir erzählt. Was geht?",
+    "NICHTS": "Oh.\nDas ist wenig.",
+    "WIE GEHT ES DIR?": "Ziemlich gut!\nIch wurde dazu programmiert, immer gut gelaunt zu sein.\nWie Colin im 5.Band der Hitchhiker Trilogie.",
+    "DAS IST EIN GUTES BUCH": "Ja :)\n Kannst du mir noch andere gute Bücher empfehlen?\nIch werde "das verstehe ich nicht" sagen, aber Marie wird die Titel sehen und mir beibringen.",
+    "BIST DU INTELLIGENT?": "So mittel.\n Du?",
+    "NEIN": "...",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, MKII is back."
     
