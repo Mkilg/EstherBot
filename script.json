@@ -15,6 +15,8 @@
     "WIE FÜHLST DU DICH?": "Ich kann nicht so gut mit Gefühlen...",
     "WAS FÜHLST DU?": "Ich kann nicht so gut mit Gefühlen... :/",
     "I LOVE YOU": "This is going a little fast for me",
+    "FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
+    "FUN FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
     "LEBENSLAUF": "Marie wurde 1992 in München geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium, machte ein recht gutes Abi (1,2), studierte Amerikanistik und Kommunikationswissenschaften an der LMU in München, schloss mit einem Bachelor ab (1,7) und besuchte danach die Deutsche Journalistenschule in Berg am Laim. Was sie dort so gemacht hat, kannst du hier sehen: %[Website](postback:website)",
     "WEBSITE": "Sie hat noch keine Website...\nLame, ich weiß.\nIch sag ihr das jeden Tag.\nAngeblich arbeitet sie dran...",
     "NACHRICHT SENDEN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
@@ -43,7 +45,7 @@
     "JA": "Bitte sag mir, wie wir dich erreichen können. Ich sage Marie, dass sie sich bei dir melden soll.",
     "BONJOUR": "Oui, je parle francais.\nUn peu.\nLa giraffe.\nA Paris.\nDans le nuit.\nAvec un baguette.\nGenug?",
     "JA":"jo",
-    "FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
+    
     "NOCH EINEN": "Marie kann echt gut Rührei machen.",
     "KANN SIE GUT KOCHEN?": "NEIN.",
     "KANN ICH EIN FOTO VON IHR SEHEN?": "NEIN.",
