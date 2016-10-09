@@ -108,7 +108,7 @@
     "WAS IST 2 + 2?": "Bitte?\nIch bin ein Bot, kein Taschenrechner.",
     ":)": ":)",
     ":(": "Du bist traurig?",
-    "JA": "Warum sprichst du mit mir? %[Ich interessiere mich für Bots.](postback:bots) %[Ich interessiere mich für Marie](postback:interesse_marie) %[Mir ist langweilig](postback:langweilig)",
+    "JA": "Warum sprichst du mit mir? %[Ich interessiere mich für Bots.](postback:bots)\n %[Ich interessiere mich für Marie](postback:interesse_marie)\n %[Mir ist langweilig](postback:langweilig)",
     "WEIß NICHT": ":(",
     "BOTS": "Ich rede nicht gern über Bots.\nDu könntest es googlen.\n:D\nOder Marie anrufen, die redet da gern drüber.",
     "WIE IST IHRE NUMMER?": "Hmm...\nIch weiß gerade nicht, ob ich die rausgeben darf.\nGib mir einfach deine?\näh.\nGeben Sie mir bitte Ihre!\n(Achso und ich werde behaupten, dass ich die nicht verstehe, aber ich notiere sie mir.)",
@@ -139,6 +139,8 @@
     "MARIE": "Hast du einen Job für Marie?\nDu solltest ihr eine Email schreiben: %[Nachricht schreiben](mailto:marie@kilg.de)",
     "LANGWEILIG": "Vielleicht solltest du dir einen Job suchen.",
     "?": "?????",
+    "WAS IST LOS?": "Sorry :/ \nMarie arbeitet noch an mir.",
+    "WO BIST DU?": "Schwer zu sagen.\nIch bin gehostet auf einem Heroku-Server.\nAber ich sehe mich gern als freie Seele.\nAls Kind des Äthers!\nEthers...\nAls Kind Esthers!",
     
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, MKII is back."
