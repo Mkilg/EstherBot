@@ -12,8 +12,8 @@
     "ERZÄHL ETWAS ÜBER MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "UND SONST SO?": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     
-    "KENNST DU MARIE?": "Ja.\Die hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
-    "KENNST DU MARIE": "Ja.\Die hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
+    "KENNST DU MARIE?": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
+    "KENNST DU MARIE": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "WIE ALT IST MARIE?": "24",
     "WIE ALT IST MARIE": "24.",
     "WIE ALT IST SIE?": "24.",
@@ -55,6 +55,10 @@
     
     "ZEITREISEN?": "Ja, in zwei amerikanischen Büchern. 11/22/63 von Stephen King und Timequake von Kurt Vonnegut.\nWenn du mehr darüber wissen willst, musst du sie aber selbst fragen, mir ist dieses Zeitreisezeug ein bisschen suspekt.\nIch lebe im hier und jetzt.",
     
+    "HAT SIE EINEN MASTER?": "Nein. Sollte sie einen haben?",
+    "HAT MARIE EINEN MASTER?": "Nein. Sollte sie einen haben?",
+    "HAT MARIE EINEN MASTER": "Nein. Sollte sie einen haben?",
+    "HAT SIE EINEN MASTER": "Nein. Sollte sie einen haben?",
     
     "JA": "Warum sprichst du mit mir? %[Ich interessiere mich für Bots.](postback:bots)\n%[Ich interessiere mich für Marie](postback:marie)\n%[Mir ist langweilig](postback:langweilig)",
     "INTERESSANT": "Warum sprichst du mit mir? %[Ich interessiere mich für Bots.](postback:bots)\n%[Ich interessiere mich für Marie](postback:marie)\n%[Mir ist langweilig](postback:langweilig)",
@@ -77,6 +81,10 @@
     "ERZÄHLE MIR NOCH EINEN WITZ": "Erzähl du doch einen.",
     "ERZÄHLE MIR EINEN ANDEREN WITZ": "Erzähl du doch einen.",
     "ERZÄHL MIR NOCH EINEN WITZ": "Erzähl du doch einen.",
+    "ERZÄHL EINEN ANDEREN WITZ": "Erzähl du doch einen.",
+    "ERZÄHLE NOCH EINEN WITZ": "Erzähl du doch einen.",
+    "ERZÄHLE EINEN ANDEREN WITZ": "Erzähl du doch einen.",
+    "ERZÄHL NOCH EINEN WITZ": "Erzähl du doch einen.",
     "KNOCK KNOCK": "WHOS THERE?",
     "NOCH EIN WITZ": "Knock knock.",
     "DU BIST LUSTIG": "Weißt du wie Computer lachen?\nso: 1o1o1o1o1o1o1o1o1o1o1o1",
