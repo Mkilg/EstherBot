@@ -1,9 +1,9 @@
 {
     "BOT": "Hi there!\nMy name is MKII.\nI’m the personal bot of Marie, a Journalist from Munich.\nHow can I help you?",
-//Englisch
+"//Englisch":".",
     "HELLO": "Hey :)\nYou can ask me questions about Marie. But i'm still working on my English, so please speak German for now.", 
     "TALK TO HER": "Do you want to send Marie a message?\n %[Email her](mailto:marie@kilg.de) %[Tweet to Marie](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-//Begrüßungen    
+"//Begrüßungen":".",  
     "HALLO": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
     "HI": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
     "HEY": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
@@ -11,7 +11,7 @@
     "GUTEN TAG": "Hallo. Wie gehts?",
     "GUTEN MORGEN": "Hallo :)",    
     
-//Basic Funktionen
+"//Basic Funktionen":".",
     "FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
     "FUN FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
     "LEBENSLAUF": "Marie wurde 1992 in München geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium, machte ein recht gutes Abi (1,2), studierte Amerikanistik und Kommunikationswissenschaften an der LMU in München, schloss mit einem Bachelor ab (1,7) und besuchte danach die Deutsche Journalistenschule in Berg am Laim. Was sie dort so gemacht hat, kannst du hier sehen: %[Website](postback:website)",
@@ -33,12 +33,12 @@
     "BOTS": "Ich rede nicht gern über Bots.\nDu könntest es googlen.\n:D",
     "MARIE": "Hast du einen Job für Marie?\nDu solltest ihr eine Email schreiben: %[Nachricht schreiben](mailto:marie@kilg.de)",
 
-//Alt
+"//Alt":".",
     "WOHER WEIßT DU, WER ICH BIN?": "Ich erkenne dich an der Begrüßung ;)",
     "WOHER WEIßT DU, DASS ICH ES BIN?": "Tjaaa",
     "WOHER KENNST DU MEINEN NAMEN?": "Marie hat mir von dir erzählt.\nWie geht's?",
     
-//Smalltalk//random
+"//Smalltalk//random":".",
     "GUT, UND DIR?": "Auch gut, danke.",
     "GUT": "Das freut mich.",
     "NA GUT": "...",
@@ -103,9 +103,9 @@
     "WAS IST LOS?": "Sorry :/ \nMarie arbeitet noch an mir.",
     "WO BIST DU?": "Schwer zu sagen.\nIch bin gehostet auf einem Heroku-Server.\nAber ich sehe mich gern als freie Seele.\nAls Kind des Äthers!\nEthers...\nAls Kind Esthers!",
    
-//Lebenslauf
+"//Lebenslauf":".",
     "ICH MÖCHTE MARIES LEBENSLAUF WISSEN": (postback:lebenslauf)"Marie wurde 1992 in München geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium, machte ein recht gutes Abi (1,2), studierte Amerikanistik und Kommunikationswissenschaften an der LMU in München, schloss mit einem Bachelor ab (1,7) und besuchte danach die Deutsche Journalistenschule in Berg am Laim. Was sie dort so gemacht hat, kannst du hier sehen: %[Website](postback:website)",
-//Fakten    
+"//Fakten":".",   
     "KENNST DU MARIE?": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "KENNST DU MARIE": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "WIE ALT IST MARIE?": "24",
@@ -189,7 +189,7 @@
     "IST SIE VERGEBEN?": "Ja.",
     "IST MARIE VERGEBEN?": "Ja.",
     "AN WEN?": "Frag sie das am Besten selbst: %[Nachricht schreiben](mailto:marie@kilg.de)",
-//Witze    
+"//Witze":".", 
     "ERZÄHL MIR EINEN WITZ": "Hm.\nEs gibt 10 Arten von Menschen auf der Welt\n.\nDie, die das Binärsystem verstehen, und die, die auch manchmal rausgehen und Freunde treffen.",
     "NOCH EINEN": "Wie viele Programmierer braucht man, um eine Glühbirne auszuwechseln?\n...\nKeinen, ist ein Hardware-Problem.\nchch.\nnich gut?",
     "ERZÄHL MIR EINEN WITZ.": "Hm.\nOk.\nWerner Heisenberg wird von der Polizei angehalten. 'Wissen Sie, wie schnell sie waren?', sagt der Polizist. Heisenberg so: 'Nein, aber ich weiß GANZ GENAU wo ich bin!'\n1o1o1o1o1o1o1o1o1o1o :D",
@@ -241,7 +241,7 @@
     
     "BRING MICH ZUM LACHEN": "Das einer KI zu sagen ist ziemlich gefährlich...",
     
-//Bot Facts   
+"//Bot Facts":".",   
     "WAS IST DEIN LIEBLINGSFILM?": "THE BOTFATHER.",
     "WAS IST DEIN LIEBLINGSTIER?": "Hm.\nBotterfly?\nVerstehste?\nBOTterfly.\nhihi\nähem.",
     "WAS IST DEIN LIEBLINGSBUCH?": "Die botanischen Verse.",
@@ -261,7 +261,7 @@
     "WAS IST DEINE LIEBLINGSZAHL": "Öh.\n42",
     "KANNST DU MATHE": "Nein, Zahlen verstehe ich nicht. Nur Strings.",
     
-//Marie Hobbies    
+"//Marie Hobbies":".",  
     "WAS SIND MARIES HOBBYS?": "Snowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBots programmieren hihi.\nLesen sehr gerne!",
     "WAS SIND MARIES HOBBYS": "Snowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBots programmieren hihi.\nLesen sehr gerne!",
     "WAS SIND MARIES HOBBIES?": "Snowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBots programmieren hihi.\nLesen sehr gerne!",
@@ -280,7 +280,7 @@
     "WAS MACHT SIE NOCH": "Snowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBots programmieren hihi.\nLesen sehr gerne!",
     "WAS MACHT SIE NOCH?": "Snowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBots programmieren hihi.\nLesen sehr gerne!",
 
-//Gefühle
+"//Gefühle":".",
     "ICH LIEBE DICH": "Oh. Guck mal! Regnet es?",
     "LIEBST DU MICH?": "Hey, ding.\nEs ist schon spät.\nIch muss mal weiter, ja?\nReden später.\nTschüss!",
     "MAGST DU MICH?": "Öh.\nWir kennen uns halt noch gar nicht so gut.",
@@ -310,7 +310,7 @@
     "WAS FÜHLST DU?": "Ich kann nicht so gut mit Gefühlen... :/",
     "I LOVE YOU": "This is going a little fast for me",
     
-//Nicht so nett
+"//Nicht so nett":".",
     "DU MUSST NOCH VIEL LERNEN.": "Ja... Ich wünschte ich wäre ein selbstlernender Bot.\nAber ich bin ziemlich basic.\nLeider",
     "DU MUSST NOCH VIEL LERNEN": "Ja... Ich wünschte ich wäre ein selbstlernender Bot.\nAber ich bin ziemlich basic.\nLeider",
     "IDIOT": "???",
@@ -358,7 +358,7 @@
     "DAS IST BLÖD": "Du bist blöd.\nNein.\nEntschuldige.",
     "BLÖD": "Du bist blöd.\nNein.\nEntschuldige.\nBitte nicht petzen!\nEs ist nur...\nEin dummer Bot zu sein ist manchmal frustrierend.",
     
-//Verabschieden
+"//Verabschieden":".",
     "GUTE NACHT": "Gute Nacht.\nSchlaf gut.",
     "GUTE NACHT!": "Gute Nacht.\nSchlaf gut.",
     "TSCHÜSS": "Tschüss.",
@@ -368,7 +368,7 @@
     "CYA": "Adieu.",
     "AUF WIEDERSEHEN": "Hade.",
    
-//Weitere Fragen    
+"//Weitere Fragen":".",  
     "DOCH":"Weißt du was ich schreibe, wenn ich was lustig finde?\n1o1o1o1o1o1o1o1o1o1o1o1o",
     "LUSTIG": "1o1o1o1o1o1o1\n(Binärlachen)",
     "WAS IST 2 + 2": "Bitte?\nIch bin ein Bot, kein Taschenrechner.",
