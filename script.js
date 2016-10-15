@@ -45,10 +45,12 @@ module.exports = new Script({
 
                 if (!_.has(scriptRules, upperText)) {
                     var zufall = Math.random()
-                        if (zufall <=0.33) {
-                             return bot.say(`Das verstehe ich nicht.`).then(() => 'speak');
-                        } else if (0.33 < zufall <=0.66) {
+                        if (zufall <=0.25) {
+                             return bot.say(`Das verstehe ich nicht.\nSorry!`).then(() => 'speak');
+                        } else if (0.25 < zufall <=0.50) {
                              return bot.say(`Ok.`).then(() => 'speak');
+                        } else if (0.50 < zufall <=0.90) {
+                             return bot.say(`Das verstehe ich nicht.`).then(() => 'speak');
                         } else {
                             return bot.say(`Tut mir Leid, ich verstehe noch nicht so viel. Möchtest du lieber mit Marie selbst sprechen? Dann schreibe "Nachricht".`).then(() => 'speak');
                         };
