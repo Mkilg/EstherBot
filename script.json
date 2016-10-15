@@ -12,6 +12,50 @@
     "ERZÄHL ETWAS ÜBER MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "UND SONST SO?": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     
+    "KENNST DU MARIE?": "Ja.\Die hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
+    "KENNST DU MARIE": "Ja.\Die hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
+    "WIE ALT IST MARIE?": "24",
+    "WIE ALT IST MARIE": "24.",
+    "WIE ALT IST SIE?": "24.",
+    "WIE ALT IST SIE": "24.",
+    "WANN WURDE MARIE GEBOREN?": "Am 14.Juni 1992.\nUm 20.20.",
+    "WANN WURDE SIE GEBOREN?": "Am 14.Juni 1992.\nUm 20.20.",
+    "WANN WURDE MARIE GEBOREN": "Am 14.Juni 1992.\nUm 20.20.",
+    "WANN WURDE SIE GEBOREN?": "Am 14.Juni 1992.\nUm 20.20.",
+    "WANN HAT SIE GEBURTSTAG?": "Am 14.Juni",
+    "WANN HAT MARIE GEBURTSTAG?": "Am 14.Juni",
+    "WANN HAT SIE GEBURTSTAG": "Am 14.Juni",
+    "WANN HAT MARIE GEBURTSTAG": "Am 14.Juni",
+    "WANN IST IHR GEBURTSTAG?": "Am 14.Juni",
+    "WANN IST IHR GEBURTSTAG": "Am 14.Juni",
+    "WANN IST MARIES GEBURTSTAG?": "Am 14.Juni",
+    "WANN IST MARIE'S GEBURTSTAG?": "Am 14.Juni
+    "WANN IST MARIES GEBURTSTAG": "Am 14.Juni",
+    "WANN IST MARIE'S GEBURTSTAG": "Am 14.Juni
+    
+    "WAS WÜNSCHT MARIE SICH ZUM GEBURTSTAG?": "Ein Delphin-Powerboot.\nHier: https://seabreacher.com/\n(Hier könnte IHRE Werbung stehen! ;)",
+    "WAS WÜNSCHT SIE SICH ZUM GEBURTSTAG?": "Ein Delphin-Powerboot.\nHier: https://seabreacher.com/\n(Hier könnte IHRE Werbung stehen! ;)",
+    "WAS WÜNSCHT SIE SICH ZUM GEBURTSTAG": "Ein Delphin-Powerboot.\nHier: https://seabreacher.com/\n(Hier könnte IHRE Werbung stehen! ;)",
+    "WAS WÜNSCHT MARIE SICH ZUM GEBURTSTAG": "Ein Delphin-Powerboot.\nHier: https://seabreacher.com/\n(Hier könnte IHRE Werbung stehen! ;)",
+    
+    
+    
+    
+    
+    
+    "WO IST SIE ZUR SCHULE GEGANGEN?": "In München. Erst auf die Grundschule Neubiberg, dann aufs Heinrich-Heine-Gymnasium in Neuperlach.",
+    "WO IST SIE ZUR SCHULE GEGANGEN": "In München. Erst auf die Grundschule Neubiberg, dann aufs Heinrich-Heine-Gymnasium in Neuperlach.",
+    "WO IST MARIE ZUR SCHULE GEGANGEN?": "In München. Erst auf die Grundschule Neubiberg, dann aufs Heinrich-Heine-Gymnasium in Neuperlach.",
+    "WO IST MARIE ZUR SCHULE GEGANGEN": "In München. Erst auf die Grundschule Neubiberg, dann aufs Heinrich-Heine-Gymnasium in Neuperlach.",
+    
+    "WAS HAT SIE STUDIERT?": "Marie hat einen Bachelor in Amerikanistik von der LMU München.\nHauptsächlich amerikanische Geschichte und Literatur.\nIhr Bachelor-Arbeit hat sie über Zeitreisen geschrieben.",
+    "WAS HAT SIE STUDIERT?": "Marie hat einen Bachelor in Amerikanistik von der LMU München.\nHauptsächlich amerikanische Geschichte und Literatur.\nIhr Bachelor-Arbeit hat sie über Zeitreisen geschrieben.",
+    "WAS HAT SIE STUDIERT?": "Marie hat einen Bachelor in Amerikanistik von der LMU München.\nHauptsächlich amerikanische Geschichte und Literatur.\nIhr Bachelor-Arbeit hat sie über Zeitreisen geschrieben.",
+    "WAS HAT SIE STUDIERT?": "Marie hat einen Bachelor in Amerikanistik von der LMU München.\nHauptsächlich amerikanische Geschichte und Literatur.\nIhr Bachelor-Arbeit hat sie über Zeitreisen geschrieben.",
+    
+    "ZEITREISEN?": "Ja, in zwei amerikanischen Büchern. 11/22/63 von Stephen King und Timequake von Kurt Vonnegut.\nWenn du mehr darüber wissen willst, musst du sie aber selbst fragen, mir ist dieses Zeitreisezeug ein bisschen suspekt.\nIch lebe im hier und jetzt.",
+    
+    
     "JA": "Warum sprichst du mit mir? %[Ich interessiere mich für Bots.](postback:bots)\n%[Ich interessiere mich für Marie](postback:marie)\n%[Mir ist langweilig](postback:langweilig)",
     "INTERESSANT": "Warum sprichst du mit mir? %[Ich interessiere mich für Bots.](postback:bots)\n%[Ich interessiere mich für Marie](postback:marie)\n%[Mir ist langweilig](postback:langweilig)",
     "BOTS": "Ich rede nicht gern über Bots.\nDu könntest es googlen.\n:D",
