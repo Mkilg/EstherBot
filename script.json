@@ -104,7 +104,7 @@
     "WO BIST DU?": "Schwer zu sagen.\nIch bin gehostet auf einem Heroku-Server.\nAber ich sehe mich gern als freie Seele.\nAls Kind des Äthers!\nEthers...\nAls Kind Esthers!",
    
 "//Lebenslauf":".",
-    "ICH MÖCHTE MARIES LEBENSLAUF WISSEN": (postback:lebenslauf)"Marie wurde 1992 in München geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium, machte ein recht gutes Abi (1,2), studierte Amerikanistik und Kommunikationswissenschaften an der LMU in München, schloss mit einem Bachelor ab (1,7) und besuchte danach die Deutsche Journalistenschule in Berg am Laim. Was sie dort so gemacht hat, kannst du hier sehen: %[Website](postback:website)",
+    "ICH MÖCHTE MARIES LEBENSLAUF WISSEN": "Marie wurde 1992 in München geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium, machte ein recht gutes Abi (1,2), studierte Amerikanistik und Kommunikationswissenschaften an der LMU in München, schloss mit einem Bachelor ab (1,7) und besuchte danach die Deutsche Journalistenschule in Berg am Laim. Was sie dort so gemacht hat, kannst du hier sehen: %[Website](postback:website)",
 "//Fakten":".",   
     "KENNST DU MARIE?": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "KENNST DU MARIE": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
