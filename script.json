@@ -11,6 +11,7 @@
     "ERZÄHL MIR ETWAS ÜBER MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "ERZÄHL ETWAS ÜBER MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "UND SONST SO?": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
+    "BIST DU ONLINE?": "JA",
     
     "KENNST DU MARIE?": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "KENNST DU MARIE": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
@@ -29,9 +30,9 @@
     "WANN IST IHR GEBURTSTAG?": "Am 14.Juni",
     "WANN IST IHR GEBURTSTAG": "Am 14.Juni",
     "WANN IST MARIES GEBURTSTAG?": "Am 14.Juni",
-    "WANN IST MARIE'S GEBURTSTAG?": "Am 14.Juni
+    "WANN IST MARIE'S GEBURTSTAG?": "Am 14.",
     "WANN IST MARIES GEBURTSTAG": "Am 14.Juni",
-    "WANN IST MARIE'S GEBURTSTAG": "Am 14.Juni
+    "WANN IST MARIE'S GEBURTSTAG": "Am 14.Juni",
     
     "WAS WÜNSCHT MARIE SICH ZUM GEBURTSTAG?": "Ein Delphin-Powerboot.\nHier: https://seabreacher.com/\n(Hier könnte IHRE Werbung stehen! ;)",
     "WAS WÜNSCHT SIE SICH ZUM GEBURTSTAG?": "Ein Delphin-Powerboot.\nHier: https://seabreacher.com/\n(Hier könnte IHRE Werbung stehen! ;)",
