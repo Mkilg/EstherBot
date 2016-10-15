@@ -44,7 +44,14 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Das verstehe ich nicht.`).then(() => 'speak');
+                    var zufall = Math.random()
+                        if (zufall <=0.33) {
+                             return bot.say(`Das verstehe ich nicht.`).then(() => 'speak');
+                        } else if (0.33 < zufall <=0.66) {
+                             return bot.say(`Ok.`).then(() => 'speak');
+                        } else {
+                            return bot.say(`Tut mir Leid, ich verstehe noch nicht so viel. Möchtest du lieber mit Marie selbst sprechen? Dann schreibe "Nachricht".`).then(() => 'speak');
+                        };
                 }
 
                 var response = scriptRules[upperText];
