@@ -15,6 +15,8 @@
     "UND SONST SO?": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "BIST DU ONLINE?": "JA",
     
+    "ICH MÖCHTE MARIES LEBENSLAUF WISSEN": "(postback:lebenslauf)",
+    
     "KENNST DU MARIE?": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "KENNST DU MARIE": "Ja.\nDie hat mich erschaffen.\nEigentlich bin ich ja nur hier, um über sie zu reden.\nWas möchtest du wissen?  %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "WIE ALT IST MARIE?": "24",
