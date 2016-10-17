@@ -8,7 +8,7 @@
     "HI": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
     "HEY": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
     "HE": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
-    "GUTEN TAG": "Hallo. \n mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter'",
+    "GUTEN TAG": "Hallo. \n mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter' oder 'Lebenslauf'. Groß- und Kleinschreibung sind mir egal, aber Satzzeichen irritieren mich noch.",
     "GUTEN MORGEN": "Morgen!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",    
     "HALLO MKII": "Hallo! Wie gehts?",
     "GUTEN ABEND": "Guten Abend!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
