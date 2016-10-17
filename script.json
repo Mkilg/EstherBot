@@ -8,8 +8,10 @@
     "HI": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
     "HEY": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
     "HE": "Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
-    "GUTEN TAG": "Hallo. Wie gehts?",
-    "GUTEN MORGEN": "Hallo :)",    
+    "GUTEN TAG": "Hallo. \n mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter'",
+    "GUTEN MORGEN": "Morgen!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",    
+    "HALLO MKII": "Hallo! Wie gehts?",
+    "GUTEN ABEND": "Guten Abend!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)",
     
 "//Basic Funktionen":".",
     "FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
