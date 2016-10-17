@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hallo, ich bin MKII, der persönliche Bot von Marie. Schreib etwas!')
+            return bot.say('Hallo, ich bin MKII, der persönliche Bot von Marie. Frag mich etwas über Marie.\nOder auch über mich :)')
                 .then(() => 'speak');
         }
     },
@@ -45,11 +45,15 @@ module.exports = new Script({
 
                 if (!_.has(scriptRules, upperText)) {
                     var zufall = Math.random()
-                        if (zufall <=0.25) {
+                        if (zufall <=0.2) {
                              return bot.say(`Das verstehe ich nicht.\nSorry!`).then(() => 'speak');
-                        } else if (0.25 < zufall <=0.50) {
+                        } else if (0.2 < zufall <=0.50) {
                              return bot.say(`Ok.`).then(() => 'speak');
-                        } else if (0.50 < zufall <=0.90) {
+                        } else if (0.50 < zufall <=0.70) {
+                             return bot.say(`Frag mich etwas anderes.`).then(() => 'speak');
+                        } else if (0.70 < zufall <=0.80) {
+                             return bot.say(`Hmm. Kannst du das anders formulieren?`).then(() => 'speak');
+                        } else if (0.80 < zufall <=0.90) {
                              return bot.say(`Das verstehe ich nicht.`).then(() => 'speak');
                         } else {
                             return bot.say(`Tut mir Leid, ich verstehe noch nicht so viel. Möchtest du lieber mit Marie selbst sprechen? Dann schreibe "Nachricht".`).then(() => 'speak');
