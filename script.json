@@ -225,7 +225,8 @@
     "ERZÄHL MIR EINEN WITZ": "Hm.\nEs gibt 10 Arten von Menschen auf der Welt\n.\nDie, die das Binärsystem verstehen, und die, die auch manchmal rausgehen und Freunde treffen.",
     "NOCH EINEN": "Wie viele Programmierer braucht man, um eine Glühbirne auszuwechseln?\n...\nKeinen, ist ein Hardware-Problem.\nchch.\nnich gut?",
     "ERZÄHL MIR EINEN WITZ.": "Hm.\nOk.\nWerner Heisenberg wird von der Polizei angehalten. 'Wissen Sie, wie schnell sie waren?', sagt der Polizist. Heisenberg so: 'Nein, aber ich weiß GANZ GENAU wo ich bin!'\n1o1o1o1o1o1o1o1o1o1o :D",
-    "WITZ": "Hm.\nEs gibt 10 Arten von Menschen auf der Welt\n.\nDie, die das Binärsystem verstehen, und die, die es nicht verstehen.",
+    "ERZÄHLE MIR EINEN WITZ": "Hm.\nOk.\nWerner Heisenberg wird von der Polizei angehalten. 'Wissen Sie, wie schnell sie waren?', sagt der Polizist. Heisenberg so: 'Nein, aber ich weiß GANZ GENAU wo ich bin!'\n1o1o1o1o1o1o1o1o1o1o :D",
+    "WITZ": "Wie viele Programmierer braucht man, um eine Glühbirne auszuwechseln?\n...\nKeinen, ist ein Hardware-Problem.\nchch.",
     "ERZÄHL EINEN WITZ": "Wie viele Programmierer braucht man, um eine Glühbirne auszuwechseln?\n...\nKeinen, ist ein Hardware-Problem.\nchch.\nnich gut?",
     "KANNST DU EINEN WITZ ERZÄHLEN?": "Hm.\nOk.\nWerner Heisenberg wird von der Polizei angehalten. 'Wissen Sie, wie schnell sie waren?', sagt der Polizist. Heisenberg so: 'Nein, aber ich weiß GANZ GENAU wo ich bin!'\n1o1o1o1o1o1o1o1o1o1o :D",
     "KANNST DU MIR EINEN WITZ ERZÄHLEN?": "Wie viele Programmierer braucht man, um eine Glühbirne auszuwechseln?\n...\nKeinen, ist ein Hardware-Problem.\nchch.\nnich gut?",
@@ -311,6 +312,11 @@
     "WAS MACHT MARIE SONST SO": "Snowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBots programmieren hihi.\nLesen sehr gerne!",
     "WAS MACHT SIE NOCH": "Snowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBots programmieren hihi.\nLesen sehr gerne!",
     "WAS MACHT SIE NOCH?": "Snowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBots programmieren hihi.\nLesen sehr gerne!",
+    "WO WOHNT MARIE?": "In Berlin",
+    "WO WOHNT SIE?": "In Berlin.",
+    "WO WOHNT MARIE": "In Berlin.",
+    "WO WOHNT SIE": "In Berlin.",
+    
 
 "//Gefühle":".",
     "ICH LIEBE DICH": "Oh. Guck mal! Regnet es?",
@@ -376,11 +382,17 @@
     "DU BIST DOOF": "Nein, ich bin MKII.",
     "DU BIST SCHEIßE": "Nein, ich bin MKII.",
     "SEI RUHIG": "k",
-       
+     
+    "WAS VERSTEHST DU": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)\nViele Menschen versuchen auch, mich zu beleidigen, das kannst du natürlich auch tun.",
+    "WAS VERSTEHST DU?": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)\nViele Menschen versuchen auch, mich zu beleidigen, das kannst du natürlich auch tun.",
     "WAS VERSTEHST DU DENN?": "Chill, ich lerne noch.\nIch bin erst zwei Monate alt, ok?\nMeine Erschafferin hat im September zum ersten Mal JavaScript benutzt.\nMeine Güte.",
     "WAS VERSTEHST DU DENN": "Chill, ich lerne noch.\nIch bin erst zwei Monate alt, ok?\nMeine Erschafferin hat im September zum ersten Mal JavaScript benutzt.\nMeine Güte.",
     "DU NERVST":"Chill, ich lerne noch.\n",
     "DU NERVST!":"Chill, ich lerne noch.\n",
+    "WAS KANNST DU": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)",
+    "WAS KANNST DU?": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)",
+    "WAS KANNST DU DENN?": "Chill, ich lerne noch.\nIch bin erst zwei Monate alt, ok?\nMeine Erschafferin hat im September zum ersten Mal JavaScript benutzt.\nMeine Güte.",
+    "WAS KANNST DU DENN": "Chill, ich lerne noch.\nIch bin erst zwei Monate alt, ok?\nMeine Erschafferin hat im September zum ersten Mal JavaScript benutzt.\nMeine Güte.",
     
     "DAS IST DOOF": "Ja.\nFinde ich auch.",
     "DAS IST DOOF.": "Ja.\nFinde ich auch.",
