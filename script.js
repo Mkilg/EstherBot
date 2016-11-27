@@ -45,12 +45,20 @@ module.exports = new Script({
 
                 if (!_.has(scriptRules, upperText)) {
                     var zufall = Math.random()
-                        if (zufall <=0.2) {
+                        if (zufall <=0.1) {
                              return bot.say(`Das verstehe ich nicht.\nSorry!`).then(() => 'speak');
-                        } else if (0.2 < zufall <=0.50) {
+                        } else if (0.1 < zufall <=0.20) {
+                             return bot.say(`Das kann ich nicht lesen. Vielleicht hat mich ein Tippfehler oder Satzzeichen irritiert.`).then(() => 'speak');
+                        } else if (0.2 < zufall <=0.30) {
                              return bot.say(`Ok.`).then(() => 'speak');
-                        } else if (0.50 < zufall <=0.70) {
+                        } else if (0.3 <zufall<=0.4) {
+                             return bot.say(`Wenn ich ein Wort in GROSSBUCHSTABEN schreibe, heißt das, dass ich es verstehen sollte.`).then(() => 'speak');
+                        } else if (0.4<zufall<=0.5) {
+                             return bot.say(`Wenn du Hilfe brauchst, schreibe HELP.`).then(() => 'speak');
+                        } else if (0.50 < zufall <=0.60) {
                              return bot.say(`Frag mich etwas anderes.`).then(() => 'speak');
+                        }    else if (0.60 < zufall <=0.70) {
+                             return bot.say(`Probiere ein anderes Stichwort!`).then(() => 'speak');
                         } else if (0.70 < zufall <=0.80) {
                              return bot.say(`Hmm. Kannst du das anders formulieren?`).then(() => 'speak');
                         } else if (0.80 < zufall <=0.90) {
