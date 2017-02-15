@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hallo!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)')
+            return bot.say('Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)')
                 .then(() => 'speak');
         }
     },
