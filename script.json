@@ -536,6 +536,178 @@
     "MAGST DU MARIE?": "Geht.\nSie könnte sich mal öfter um mich kümmern.",
     "MAGST DU MARIE": "Geht.\nSie sollte sich mal öfter um mich kümmern.\nUnd nicht so viel um ihre doofen Twitterbots.",
    
+    "//neuer Lebenslauf-Baum, Konvonetz im MKI, -mkii imp2.json-":"ok",
+    "INTRO": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
+
+"MKII": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
+"BOT": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
+"DU": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
+
+"MÜNCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht. Gerade lebt Marie aber nicht mehr da, sondern in BERLIN.\nDas ist wenigstens nicht so TEUER!",
+"MUENCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht. Gerade lebt Marie aber nicht mehr da, sondern in BERLIN.\nDas ist wenigstens nicht so TEUER!",
+
+"AKTUELL": "Gerade ist Marie in BERLIN.\nBei der TAZ.\nSie war Praktikantin in den Redaktionen WOCHENENDE und ÖKOLOGIE, um ihre DJS-Ausbildung abzuschließen.\nDanach ist sie zu TAZ2 gewechselt, als Vertretung. Soweit ich weiß sind die da ziemlich nett zu ihr und sie hat SPASS.",
+"JETZT": "Gerade ist Marie in BERLIN.\nBei der TAZ.\nSie war Praktikantin in den Redaktionen WOCHENENDE und ÖKOLOGIE, um ihre DJS-Ausbildung abzuschließen.\nDanach ist sie zu TAZ2 gewechselt, als Vertretung. Soweit ich weiß sind die da ziemlich nett zu ihr und sie hat SPASS.",
+
+"HELP": "Frag mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter' oder 'Lebenslauf'. Wenn ich ein Wort in GROSSBUCHSTABEN schreibe, heißt das, dass es ein Stichwort ist, das ich kenne.\nDu kannst auch versuchen, normal mit mir zu REDEN. Aber bitte sei nicht böse, wenn ich vieles noch nicht verstehe.",
+"HILFE": "Frag mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter' oder 'Lebenslauf'. Wenn ich ein Wort in GROSSBUCHSTABEN schreibe, heißt das, dass es ein Stichwort ist, das ich kenne.\nDu kannst auch versuchen, normal mit mir zu REDEN. Aber bitte sei nicht böse, wenn ich vieles noch nicht verstehe.",
+
+"LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte ein recht gutes Abi (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule(DJS). Und %[JETZT...](postback:aktuell)",
+"ZEIG MIR MARIES LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte ein recht gutes Abi (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule(DJS). Und %[JETZT...](postback:aktuell)",
+
+"BACHELOR": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
+"AMERIKANISTIK": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
+"STUDIUM": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
+
+"LMU": "An der Ludwig-Maximilians-Universität in MÜNCHEN studierte Marie Amerikanistik und Kommunikationswissenschaften. Sie schloss mit einem BA ab (1,7). Thema der Bachelorarbeit: ZEITreisen",
+
+"ZEITREISEN": "Puh, willst du dich wirklich mit einem BOT über Zeitreisen unterhalten?\nIch würde vorschlagen, das klärst du mit Marie selbst: %[Nachricht schreiben](mailto:marie@kilg.de)",
+
+"DJS": "An der DJS in MÜNCHEN lernte Marie zehn Monate lang alles über Journalismus in PRINT, RADIO, FERNSEHEN und ONLINE. Für das Abschluss-Magazin FLUX war sie Online-CvD, kümmerte sich also um die WEBSITE für das Projekt.\nZusammen mit einer Kollegin war sie außerdem CHEFIN für die Radio-Abschlusssendung FLASH.",
+"JOURNALISTENSCHULE": "An der DJS in MÜNCHEN lernte Marie zehn Monate lang alles über Journalismus in PRINT, RADIO, FERNSEHEN und ONLINE. Für das Abschluss-Magazin FLUX war sie Online-CvD, kümmerte sich also um die WEBSITE für das Projekt.\nZusammen mit einer Kollegin war sie außerdem CHEFIN für die Radio-Abschlusssendung FLASH.",
+"DEUTSCHE JOURNALISTENSCHULE": "An der DJS in MÜNCHEN lernte Marie zehn Monate lang alles über Journalismus in PRINT, RADIO, FERNSEHEN und ONLINE. Für das Abschluss-Magazin FLUX war sie Online-CvD, kümmerte sich also um die WEBSITE für das Projekt.\nZusammen mit einer Kollegin war sie außerdem CHEFIN für die Radio-Abschlusssendung FLASH.",
+"JOURNALISMUS": "An der DJS in MÜNCHEN lernte Marie zehn Monate lang alles über Journalismus in PRINT, RADIO, FERNSEHEN und ONLINE. Für das Abschluss-Magazin FLUX war sie Online-CvD, kümmerte sich also um die WEBSITE für das Projekt.\nZusammen mit einer Kollegin war sie außerdem CHEFIN für die Radio-Abschlusssendung FLASH.",
+
+"CHEFIN": "Möchtest du Maries Chefin werden? Oder möchtest du, dass Marie deine Chefin wird :D\n Schreib ihr doch eine %[Nachricht](mailto:marie@kilg.de), vielleicht geht sich was zam.",
+
+"FERNSEHEN": "Fernseherfahrung hat Marie keine. An der DJS und in COSTA RICA hat sie aber ein paar basics gelernt, sie kann eine Kamera benutzen und VIDEOS mit AVID schneiden und bearbeiten, oder mit dem Handy.",
+"TV": "Fernseherfahrung hat Marie keine. An der DJS und in COSTA RICA hat sie aber ein paar basics gelernt, sie kann eine Kamera benutzen und VIDEOS mit AVID schneiden und bearbeiten, oder mit dem Handy.",
+
+"COSTA RICA": "Dort hat sie JOURNALISMUS und Geschichte studiert, in der Hauptstadt San Jose.\nEhrlich gesagt war sie auch viel am Strand.\nAber sie hat ein paar coole VIDEO-Kurse belegt.\nUnd konnte fließend SPANISCH als sie heimkam.",
+"COSTARICA": "Dort hat sie JOURNALISMUS und Geschichte studiert, in der Hauptstadt San Jose.\nEhrlich gesagt war sie auch viel am Strand.\nAber sie hat ein paar coole VIDEO-Kurse belegt.\nUnd konnte fließend SPANISCH als sie heimkam.",
+
+"VIDEOS": "Hier kannst du die Videos sehen, die Marie an der JOURNALISTENSCHULE gemacht hat: %[DJS Videos](postback:fehler1)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
+"VIDEO": "Hier kannst du die Videos sehen, die Marie an der JOURNALISTENSCHULE gemacht hat: %[DJS Videos](postback:fehler1)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
+
+"FEHLER1": "Oh no. Dieser Bereich ist noch nicht fertig. Frag Marie direkt, sie wird dir helfen: %[Mail](mailto:marie@kilg.de) %[Tweet](http://twitter.com/mkilg_)",
+
+"SOCIAL MEDIA": "TWITTER, Facebook, Snapchat und Instagram versteht Marie mindestens so gut wie deine Eltern und dein vierjähriger Neffe zusammen.\nYOUTUBE-Schminktipps gibt sie aber (noch) nicht.",
+"SOCIALMEDIA": "TWITTER, Facebook, Snapchat und Instagram versteht Marie mindestens so gut wie deine Eltern und dein vierjähriger Neffe zusammen.\nYOUTUBE-Schminktipps gibt sie aber (noch) nicht.",
+"SOZIALE MEDIEN": "TWITTER, Facebook, Snapchat und Instagram versteht Marie mindestens so gut wie deine Eltern und dein vierjähriger Neffe zusammen.\nYOUTUBE-Schminktipps gibt sie aber (noch) nicht.",
+
+
+"FACEBOOK": "No no, das ist privat.",
+"FACE BOOK": "no no, das ist privat",
+"INSTAGRAM": "If you must know: Marie heißt bei Instagram brishmibrimi.\nAber sie kocht ja eher nicht so nice, also erwarte keine attraktiven Tacosalatfotos.",
+"TACOSALATFOTOS": "Als ob das ein Wort ist, das ich kenne!\nWenn du Hilfe brauchst, tippe HELP",
+"TWITTER": "%[Marie Kilg Official](https://twitter.com/mkilg_)",
+"YOUTUBE": "Wenn überhaupt, würde sie Abschmink-Tutorials aufnehmen.\n%[???](postback:help)",
+"SNAPCHAT": "Ich persönlich finde es toll, dass mit den Stimmenverzerr-Filtern auch Menschen ein bisschen mehr wie Roboter klingen.\nMarie nutzt Snapchat bisher nur privat.",
+
+"GROSSBUCHSTABEN": "Super, du hast es verstanden! Schreibe jetzt etwas anderes!",
+"GROßBUCHSTABEN": "Super, du hast es verstanden! Schreibe jetzt etwas anderes!",
+"ETWAS ANDERES": "Oh man.\nBin ich der Bot oder du?\nSei kreativ!",
+"ETWAS ANDRES": "Oh man.\nBin ich der Bot oder du?\nSei kreativ!",
+"STICHWORT": "Oh man.\nBin ich der Bot oder du?\nSei kreativ!",
+"EIN STICHWORT": "Oh man.\nBin ich der Bot oder du?\nSei kreativ!",
+
+"REDEN": "Bitte vermeide Tippfehler und ungewöhnliche Zeichensetzung, wenn, DU, mit, mir, sprichst.",
+"SPRECHEN": "Bitte vermeide Tippfehler und ungewöhnliche Zeichensetzung, wenn, DU, mit, mir, sprichst.",
+
+"KW": "Ughh, mit einem Chatbot über Kommunikationswissenschaften sprechen, das ist ein bisschen zu meta, oder?\nDa würde ich deine Fragen einfach weiterleiten: %[Mail an Marie](mailto:marie@kilg.de)",
+"KOMMUNIKATIONSWISSENSCHAFTEN": "Ughh, mit einem Chatbot über Kommunikationswissenschaften sprechen, das ist ein bisschen zu meta, oder?\nDa würde ich deine Fragen einfach weiterleiten: %[Mail an Marie](mailto:marie@kilg.de)",
+
+"ERFAHRUNGEN": "Marie war Touristenführerin bei ARENA ONE, Pressereferentin beim VIT, hat RADIO bei M94.5 gemacht, ein Semester lang in COSTA RICA studiert, in EDINBURGH einen Reiseführer mitgestaltet, die DJS besucht und für die TAZ gearbeitet. Schreibe ein Stichwort, wenn du mehr wissen willst!",
+
+"ARENA ONE": "Neben dem STUDIUM hat Marie in der Allianz Arena gearbeitet. Das war ein toller JOB! Sie durfte Gruppen von Touristen und anderen Interessierten durch die Arena führen. Viel Bewegung + viele Menschen treffen + fünf mal am Tag in der Bayernkabine sein = awesome! Und gut für die Stimmbildung ist so was auch noch, was ihr wiederum fürs RADIO genützt hat...",
+"ARENAONE": "Neben dem STUDIUM hat Marie in der Allianz Arena gearbeitet. Das war ein toller JOB! Sie durfte Gruppen von Touristen und anderen Interessierten durch die Arena führen. Viel Bewegung + viele Menschen treffen + fünf mal am Tag in der Bayernkabine sein = awesome! Und gut für die Stimmbildung ist so was auch noch, was ihr wiederum fürs RADIO genützt hat...",
+"ARENA": "Neben dem STUDIUM hat Marie in der Allianz Arena gearbeitet. Das war ein toller JOB! Sie durfte Gruppen von Touristen und anderen Interessierten durch die Arena führen. Viel Bewegung + viele Menschen treffen + fünf mal am Tag in der Bayernkabine sein = awesome! Und gut für die Stimmbildung ist so was auch noch, was ihr wiederum fürs RADIO genützt hat...",
+"ALLIANZ ARENA": "Neben dem STUDIUM hat Marie in der Allianz Arena gearbeitet. Das war ein toller JOB! Sie durfte Gruppen von Touristen und anderen Interessierten durch die Arena führen. Viel Bewegung + viele Menschen treffen + fünf mal am Tag in der Bayernkabine sein = awesome! Und gut für die Stimmbildung ist so was auch noch, was ihr wiederum fürs RADIO genützt hat...",
+"ALLIANZARENA": "Neben dem STUDIUM hat Marie in der Allianz Arena gearbeitet. Das war ein toller JOB! Sie durfte Gruppen von Touristen und anderen Interessierten durch die Arena führen. Viel Bewegung + viele Menschen treffen + fünf mal am Tag in der Bayernkabine sein = awesome! Und gut für die Stimmbildung ist so was auch noch, was ihr wiederum fürs RADIO genützt hat...",
+
+"JOB": "Hast du einen Job für Marie? Sie schreibt Texte über verschiedene THEMEN. Sie kann auch für dich ÜBERSETZEN oder deinem Kind NACHHILFE geben. Oder als FAHRERIN für dich arbeiten. Oder deine Website PROGRAMMIEREN.\n(man hat ihr einmal gesagt, dass ein zweites Standbein einem Journalisten nicht schaden kann.)\nJetzt ist sie Hundertfüßer\nUnd steht so mittelstabil :D",
+
+"NACHHILFE": "In der SCHULE und im STUDIUM hat Marie auch etwas Geld mit Nachhilfe verdient. ENGLISCH, SPANISCH, Bio, Mathe und DEUTSCH. Das hat schon SPASS gemacht - ich glaube, Marie erklärt gerne.",
+
+
+
+"BERLIN": "In Berlin gibt es leckere DÖNER. Auch sonst ist es ganz schön. Außer, dass es halt kalt ist und keinen OBAZDN gibt. In Berlin arbeitet Marie gerade bei der TAZ.",
+
+"DÖNER": "Maries Lieblingsdöner ist ***HIER KÖNNTE IHRE WERBUNG STEHEN***",
+"DOENER": "Maries Lieblingsdöner ist ***HIER KÖNNTE IHRE WERBUNG STEHEN***",
+"HIER KÖNNTE IHRE WERBUNG STEHEN": "Ist eigentlich nur ein Spaß. Aber wenn Du wirklich interessiert bist daran, schreib mir eine %[NACHRICHT](mailto:marie@kilg.de)",
+"HIER KOENNTE IHRE WEBUNG STEHEN": "Ist eigentlich nur ein Spaß. Aber wenn Du wirklich interessiert bist daran, schreib mir eine %[NACHRICHT](mailto:marie@kilg.de)",
+
+"TAZ": "Bei der taz hat sie ihr erstes Praktikum nach der DJS gemacht. Zuerst war sie 2 Monate bei taz am WOCHENENDE, dann in der ÖKOLOGIE-Redaktion. Jetzt ist sie Redakteurin bei taz2.",
+"TAZ. DIE TAGESZEITUNG": "Bei der taz hat sie ihr erstes Praktikum nach der DJS gemacht. Zuerst war sie 2 Monate bei taz am WOCHENENDE, dann in der ÖKOLOGIE-Redaktion. Jetzt ist sie Redakteurin bei taz2.",
+"TAGESZEITUNG": "Bei der taz hat sie ihr erstes Praktikum nach der DJS gemacht. Zuerst war sie 2 Monate bei taz am WOCHENENDE, dann in der ÖKOLOGIE-Redaktion. Jetzt ist sie Redakteurin bei taz2.",
+
+"ONLINE": "Wenn Marie sich nicht für Online-Journalismus interessieren würde, dann gäbe es mich nicht :D\nWenn du mehr wissen willst, frag mich zum Beispiel nach FLUX.",
+"INTERNET":  "Wenn Marie sich nicht für Online-Journalismus interessieren würde, dann gäbe es mich nicht :D\nWenn du mehr wissen willst, frag mich zum Beispiel nach FLUX.",
+
+"FLUX": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der %[Website](http://fluxmagazin.de) und des SOCIAL MEDIA Auftritts. Das Heft ist auch als %[kostenlose App](http://www.klartext-magazin.de/54K/download/) erhältlich.",
+"FLUX MAGAZIN": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der %[Website](http://fluxmagazin.de) und des SOCIAL MEDIA Auftritts. Das Heft ist auch als %[kostenlose App](http://www.klartext-magazin.de/54K/download/) erhältlich.",
+"FLUXMAGAZIN": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der %[Website](http://fluxmagazin.de) und des SOCIAL MEDIA Auftritts. Das Heft ist auch als %[kostenlose App](http://www.klartext-magazin.de/54K/download/) erhältlich.",
+
+"ÖKOLOGIE": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
+"OEKOLOGIE": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
+"OEWIS": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
+"ÖWIS": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
+"WIRTSCHAFT": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
+"TECHNIK": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
+"WISSENSCHAFT": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
+
+"WOCHENENDE": "Die Zeit bei der taz am wochenende war toll. Marie durfte ein bisschen was SCHREIBEN für die Zeitung, aber auch VIDEOS machen. Das TEAM war nett. Und ein MAGAZIN zu machen, hat großen SPASS gemacht.",
+"TAZ AM WOCHENENDE": "Die Zeit bei der taz am wochenende war toll. Marie durfte ein bisschen was SCHREIBEN für die Zeitung, aber auch VIDEOS machen. Das TEAM war nett. Und ein MAGAZIN zu machen, hat großen SPASS gemacht.",
+
+"MAGAZIN": "Beim DJS-Abschlussmagazin FLUX war Marie ONLINE-CvD.",
+
+"SCHREIBEN": "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\n%[Fake-News auf Facebook - Das mit dem Internet](http://www.taz.de/!5360665/)%[Raumfahrt ohne Treibstoff - Unmöglicher Antrieb](http://www.taz.de/!5360382/)%[Psychologie/Prognosen - Warum wir so schlecht zielen](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
+"TEXTE":  "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\n%[Fake-News auf Facebook - Das mit dem Internet](http://www.taz.de/!5360665/)%[Raumfahrt ohne Treibstoff - Unmöglicher Antrieb](http://www.taz.de/!5360382/)%[Psychologie/Prognosen - Warum wir so schlecht zielen](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
+"ARTIKEL":  "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\n%[Fake-News auf Facebook - Das mit dem Internet](http://www.taz.de/!5360665/)%[Raumfahrt ohne Treibstoff - Unmöglicher Antrieb](http://www.taz.de/!5360382/)%[Psychologie/Prognosen - Warum wir so schlecht zielen](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
+"LESEPROBEN":  "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\n%[Fake-News auf Facebook - Das mit dem Internet](http://www.taz.de/!5360665/)%[Raumfahrt ohne Treibstoff - Unmöglicher Antrieb](http://www.taz.de/!5360382/)%[Psychologie/Prognosen - Warum wir so schlecht zielen](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
+"TEXT":  "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\n%[Fake-News auf Facebook - Das mit dem Internet](http://www.taz.de/!5360665/)%[Raumfahrt ohne Treibstoff - Unmöglicher Antrieb](http://www.taz.de/!5360382/)%[Psychologie/Prognosen - Warum wir so schlecht zielen](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
+
+"MEHR TEXTE": "%[Alle Texte von Marie auf taz.de](http://www.taz.de/Marie-Kilg/!a35915/)\n%[Was sagt Google?](http://lmgtfy.com/?q=marie+kilg)",
+"MEHR ARTIKEL": "%[Alle Texte von Marie auf taz.de](http://www.taz.de/Marie-Kilg/!a35915/)%[Was sagt Google?](http://lmgtfy.com/?q=marie+kilg)",
+
+"SPASS": "Das macht Marie Spaß:\nSnowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBOTs PROGRAMMIEREN hihi.\nLESEN sehr gerne! Und REISEN...", 
+"SPAß": "Das macht Marie Spaß:\nSnowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBOTs PROGRAMMIEREN hihi.\nLESEN sehr gerne! Und REISEN...", 
+"HOBBIES": "Das macht Marie Spaß:\nSnowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBOTs PROGRAMMIEREN hihi.\nLESEN sehr gerne! Und REISEN...", 
+"HOBBYS": "Das macht Marie Spaß:\nSnowboarden, Wakeboarden, Fußball spielen.\nFrüher mal Gitarre spielen, aber das macht sie jetzt nicht mehr so oft.\nBOTs PROGRAMMIEREN hihi.\nLESEN sehr gerne! Und REISEN...", 
+
+"LERNEN": "Das findet sie gut. %[Was lernt sie denn so?](postback: wlsds?)",
+"LERNT": "Lernen findet sie gut. %[Was lernt sie denn so?](postback: wlsds?)",
+"WLSDS?": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
+"WAS LERNT SIE DENN SO?": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
+"WLSDS": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
+"WAS LERNT SIE DENN SO": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
+
+ "WARUM?": "Marie hat im August 2016 ihre Ausbildung an der Deutschen Journalistenschule (DJS) beendet.\nDa hatte sie auf einmal wieder ZEIT für andere Projekte. PROGRAMMIEREN zu lernen, stand schon länger auf der Liste.\nIch, also ein Bot, der ihren LEBENSLAUF erzählen kann, bin das erste Projekt.\nIch soll ihr bei zwei Dingen helfen: Beim LERNEN, und vielleicht dabei, einen JOB zu finden.",
+"WARUM": "Marie hat im August 2016 ihre Ausbildung an der Deutschen Journalistenschule (DJS) beendet.\nDa hatte sie auf einmal wieder ZEIT für andere Projekte. PROGRAMMIEREN zu lernen, stand schon länger auf der Liste.\nIch, also ein Bot, der ihren LEBENSLAUF erzählen kann, bin das erste Projekt.\nIch soll ihr bei zwei Dingen helfen: Beim LERNEN, und vielleicht dabei, einen JOB zu finden.",
+
+"ZEIT": "Arbeitest du bei der Zeit? Bei Zeit Online soll ja eine Stelle in der Entwicklungsredaktion frei sein...\nMöchtest du Marie nicht mal einladen, damit ihr euch kennenlernen könnt? %[OK](mailto:marie@kilg.de)",
+
+"EDINBURGH": "Das war ein einmonatiges Reisejournalismus-Projekt der Curso eG. im Jahr 2011. Vormittags Seminare, nachmittags am Reiseführer arbeiten (auf ENGLISCH).\nSchön für Marie, weil sie eh so gerne auf REISEN ist.\nUnd weil sie sich die Rubrik ESSEN geschnappt hat ;)",
+"EDINBURG": "Das war ein einmonatiges Reisejournalismus-Projekt der Curso eG. im Jahr 2011. Vormittags Seminare, nachmittags am Reiseführer arbeiten (auf ENGLISCH).\nSchön für Marie, weil sie eh so gerne auf REISEN ist.\nUnd weil sie sich die Rubrik ESSEN geschnappt hat ;)",
+"EDINBOURGH": "Das war ein einmonatiges Reisejournalismus-Projekt der Curso eG. im Jahr 2011. Vormittags Seminare, nachmittags am Reiseführer arbeiten (auf ENGLISCH).\nSchön für Marie, weil sie eh so gerne auf REISEN ist.\nUnd weil sie sich die Rubrik ESSEN geschnappt hat ;)",
+"EDINBOURG": "Das war ein einmonatiges Reisejournalismus-Projekt der Curso eG. im Jahr 2011. Vormittags Seminare, nachmittags am Reiseführer arbeiten (auf ENGLISCH).\nSchön für Marie, weil sie eh so gerne auf REISEN ist.\nUnd weil sie sich die Rubrik ESSEN geschnappt hat ;)",
+
+"SPRACHE": "Marie spricht ENGLISCH, DEUTSCH, FRANZÖSISCH und SPANISCH.\nHTML, CSS und JavaScript kann sie auch. Und Morsen.\nWobei sie das sogar noch seltener gebrauchen kann als ihr MANDARIN.",
+"SPRACHEN": "Marie spricht ENGLISCH, DEUTSCH, FRANZÖSISCH und SPANISCH.\nHTML, CSS und JavaScript kann sie auch. Und Morsen.\nWobei sie das sogar noch seltener gebrauchen kann als ihr MANDARIN.",
+
+"ENGLISCH": "MutterSPRACHE.\nihre Mama ist in Kalifornien groß geworden",
+"ENGLISH": "MutterSPRACHE.\nihre Mama ist in Kalifornien groß geworden",
+"SPANISCH": "Spanisch spricht sie fließend.\nHat sie im Auslandssemester in COSTA RICA gelernt.",
+"SPANISH": "SPANISCH": "Spanisch spricht sie fließend.\nHat sie im Auslandssemester in COSTA RICA gelernt.",
+"FRANZÖSISCH": "Hat sie in der SCHULE gelernt, sieben Jahre lang.\nGeht also ganz gut."
+"DEUTSCH": "Maries Muttersprache.",
+
+"HTML": "Marie hat schonmal mit 11 ein paar WEBSITEN gemacht, die sind aber nicht mehr zu finden.\nKein großer Verlust, außer man hat dringend Bock auf glitzernde ClipArts und Mauszeiger, die die Form ändern.\nSie LERNT aber jetzt HTML5 und dann hoffentlich auch irgendwann ein paar basic Webdesign-Regeln.",
+"CSS": "Checkt sie schon ganz gut. Ist sie ständig am ausbauen.",
+
+"WEBSITE": "Oh no, ihre eigene Website ist noch in Arbeit :-S\nAber du kannst die Seite von FLUX sehen, die hat Marie als CvD mitgestaltet: %[fluxmagazin.de](http://fluxmagazin.de)", 
+"WEBSITEN": "Oh no, ihre eigene Website ist noch in Arbeit :-S\nAber du kannst die Seite von FLUX sehen, die hat Marie als CvD mitgestaltet: %[fluxmagazin.de](http://fluxmagazin.de)", 
+"WEBSEITE": "Oh no, ihre eigene Website ist noch in Arbeit :-S\nAber du kannst die Seite von FLUX sehen, die hat Marie als CvD mitgestaltet: %[fluxmagazin.de](http://fluxmagazin.de)", 
+"WEBSEITEN": "Oh no, ihre eigene Website ist noch in Arbeit :-S\nAber du kannst die Seite von FLUX sehen, die hat Marie als CvD mitgestaltet: %[fluxmagazin.de](http://fluxmagazin.de)", 
+"INTERNETSEITE": "Oh no, ihre eigene Website ist noch in Arbeit :-S\nAber du kannst die Seite von FLUX sehen, die hat Marie als CvD mitgestaltet: %[fluxmagazin.de](http://fluxmagazin.de)", 
+"INTERNETSEITEN": "Oh no, ihre eigene Website ist noch in Arbeit :-S\nAber du kannst die Seite von FLUX sehen, die hat Marie als CvD mitgestaltet: %[fluxmagazin.de](http://fluxmagazin.de)", 
+
+"REISEN": "Marie ist gerne unterwegs, und durfte in ihrem Leben schon an viele interessante Orte reisen. Zum Beispiel während der SCHULE nach Jordanien, mit der DJS nach Israel, nach TAIWAN, um MANDARIN zu LERNEN oder nach EDINBURGH für ein Reisejournalismusprogramm.",
+"REISE": "Marie ist gerne unterwegs, und durfte in ihrem Leben schon an viele interessante Orte reisen. Zum Beispiel während der SCHULE nach Jordanien, mit der DJS nach Israel, nach TAIWAN, um MANDARIN zu LERNEN oder nach EDINBURGH für ein Reisejournalismusprogramm.",
+                                                 
+
+
     
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, MKII is back."
