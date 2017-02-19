@@ -29,10 +29,11 @@
     "WIE KANN ICH MARIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "WIE KANN ICH SIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "WIE KANN ICH SIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\nHier: %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben (https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
+    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\nHier: %[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben (https://twitter.com/intent/tweet?screen_name=mkilg_official)",
+    "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "KANN ICH MIT MARIE SPRECHEN?": "Marie ist gerade nicht da, aber du kannst ihr eine Nachricht schreiben:%[Email schreiben](mailto:marie@kilg.de)",
     "TWITTER": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
+    "TWEET": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
     "ERZÄHL": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "ERZÄHL MIR VON MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "ERZÄHL MIR ÜBER MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
@@ -59,7 +60,6 @@
     "SPASS": "*under construction*",
     "ÖKOLOGIE": "*under construction*",
     "ÖKOLOGIE UND WIRTSCHAFT": "*under construction*",
-    "HHG": "*under construction*",
     "BERGE": "Die Berge mag sie gern! Vor allem, weil man da Snowboarden kann. Noch. Möchtest du mehr über Maries HOBBIES wissen?",
     "AMERIKANISTIK": "*under construction*",
     "BACHELOR": "Marie hat einen Bachelor in AMERIKANISTIK von der LMU München.\nHauptsächlich amerikanische Geschichte und Literatur.\nIhr Bachelor-Arbeit hat sie über ZEITREISEN geschrieben.",
@@ -78,7 +78,6 @@
     "ONLINE": "*under construction*",
     "COSTA RICA": "*under construction*",
     "EDINBURGH": "*under construction*",
-    "RADIO": "*under construction*",
     "FERNSEHEN": "*under construction*",
     "PRINT": "*under construction*",
     "ERFAHRUNGEN": "*under construction*",
@@ -590,10 +589,15 @@
     "ZEIG MIR MARIES LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte dort ihr Abitur (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule (DJS). Und %[JETZT...](postback:aktuell)",
 
     "BACHELOR": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
+    "BA": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
     "AMERIKANISTIK": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
     "STUDIUM": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
 
-    "LMU": "An der Ludwig-Maximilians-Universität in MÜNCHEN studierte Marie Amerikanistik und Kommunikationswissenschaften. Sie schloss mit einem BA ab (1,7). Thema der Bachelorarbeit: ZEITreisen",
+    "LMU": "An der Ludwig-Maximilians-Universität in MÜNCHEN studierte Marie Amerikanistik und Kommunikationswissenschaften. Sie schloss mit einem BA ab (1,7). Thema der Bachelorarbeit: ZEITreisen.\nWährend des Studiums hat Marie unter anderem bei ARENA ONE als Touristenführerin gearbeitet. ",
+    "UNI": "An der Ludwig-Maximilians-Universität in MÜNCHEN studierte Marie Amerikanistik und Kommunikationswissenschaften. Sie schloss mit einem BA ab (1,7). Thema der Bachelorarbeit: ZEITreisen.\nWährend des Studiums hat Marie unter anderem bei ARENA ONE als Touristenführerin gearbeitet. ",
+    "LUDWIG-MAXIMILIANS-UNIVERSITÄT": "An der Ludwig-Maximilians-Universität in MÜNCHEN studierte Marie Amerikanistik und Kommunikationswissenschaften. Sie schloss mit einem BA ab (1,7). Thema der Bachelorarbeit: ZEITreisen.\nWährend des Studiums hat Marie unter anderem bei ARENA ONE als Touristenführerin gearbeitet. ",
+    "UNIVERSITÄT": "An der Ludwig-Maximilians-Universität in MÜNCHEN studierte Marie Amerikanistik und Kommunikationswissenschaften. Sie schloss mit einem BA ab (1,7). Thema der Bachelorarbeit: ZEITreisen.\nWährend des Studiums hat Marie unter anderem bei ARENA ONE als Touristenführerin gearbeitet. ",
+    "STUDIUM": "An der Ludwig-Maximilians-Universität in MÜNCHEN studierte Marie Amerikanistik und Kommunikationswissenschaften. Sie schloss mit einem BA ab (1,7). Thema der Bachelorarbeit: ZEITreisen.\nWährend des Studiums hat Marie unter anderem bei ARENA ONE als Touristenführerin gearbeitet. ",
 
     "ZEITREISEN": "Puh, willst du dich wirklich mit einem BOT über Zeitreisen unterhalten?\nIch würde vorschlagen, das klärst du mit Marie selbst: %[Nachricht schreiben](mailto:marie@kilg.de)",
 
@@ -782,6 +786,19 @@
     "M945": "Marie hat dort tagesaktuell gearbeitet und im Politikressort.\nAb und zu hat sie auch einstündige Feature-Sendungen mitproduziert, die so genannten 'Fußnoten'.\nUnd sie hat ONLINE-Artikel geschrieben.",
     "M94.5": "Marie hat dort tagesaktuell gearbeitet und im Politikressort.\nAb und zu hat sie auch einstündige Feature-Sendungen mitproduziert, die so genannten 'Fußnoten'.\nUnd sie hat ONLINE-Artikel geschrieben.",
     "M94,5": "Man schreibt das mit Punkt: M94.5 ;)\nMarie hat dort tagesaktuell gearbeitet und im Politikressort.\nAb und zu hat sie auch einstündige Feature-Sendungen mitproduziert, die so genannten 'Fußnoten'.\nUnd sie hat ONLINE-Artikel geschrieben.",
+
+    "RADIO": "Radio machen hat Marie bei M94.5 gelernt. Das ist ein Ausbildungskanal in MÜNCHEN.\nMarie kann also Beiträge texten, sprechen, schneiden und bearbeiten (mit Digas oder Audacity).\nSie findet Radio ziemlich cool! Deswegen hat sie auch die Leitung für die Radio-Abschlusssendung an der DJS übernommen.\nDas Ergebnis hieß %[FLASH](http://www.m945.de/buntes/aufstieg_der_aussenseiter.html)",
+    
+    "HHG": "Marie ging in Neubiberg zur Grundschule und danach in Neuperlach aufs Heinrich-Heine-Gymnasium.\nWährend der Schule hat sie ehrenamtlich in einem Altenheim gearbeitet. Später auch beim Verband Internationaler Tauchschulen (VIT) als Pressebeauftragte.\nNach dem Abitur hat sie an der LMU in München ihr Studium begonnen.",
+    "SCHULE": "Marie ging in Neubiberg zur Grundschule und danach in Neuperlach aufs Heinrich-Heine-Gymnasium.\nWährend der Schule hat sie ehrenamtlich in einem Altenheim gearbeitet. Später auch beim Verband Internationaler Tauchschulen (VIT) als Pressebeauftragte.\nNach dem Abitur hat sie an der LMU in München ihr Studium begonnen.",
+    
+    "MUH": "Das war eine Geschichte über die Suche nach der wahren Erfinderin des Obatzdn.\nWenn du sie LESEN willst, musst du die Muh kaufen. Oder %[Marie fragen](mailto:marie@kilg.de)", 
+    "OBAZDN": "Der Text darüber ist im Dezember in der MUH erschienen.\nWenn du sie nett fragst, gibt Marie dir vielleicht das Originalrezept %[Nachricht senden](mailto:marie@kilg.de)",
+    "OBAZDA": "Der Text darüber ist im Dezember in der MUH erschienen.\nWenn du sie nett fragst, gibt Marie dir vielleicht das Originalrezept %[Nachricht senden](mailto:marie@kilg.de)",
+    "OBATZDER": "Der Text darüber ist im Dezember in der MUH erschienen.\nWenn du sie nett fragst, gibt Marie dir vielleicht das Originalrezept %[Nachricht senden](mailto:marie@kilg.de)",
+    "OBATZDA": "Der Text darüber ist im Dezember in der MUH erschienen.\nWenn du sie nett fragst, gibt Marie dir vielleicht das Originalrezept %[Nachricht senden](mailto:marie@kilg.de)",
+    
+    "TZ": "Während der Ausbildung durfte Maries Klasse eine ganze tz-Ausgabe zum Thema Gesundheit und Medizin gestalten. Wenn du mehr darüber wissen willst, schau hier: %[Website](Das Zeitungsprojekt der Deutschen Journalistenschule und der tz)",
 
 
     "CONNECT ME": "",
