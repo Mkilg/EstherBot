@@ -83,7 +83,7 @@
     "PRINT": "*under construction*",
     "ERFAHRUNGEN": "*under construction*",
     "ERFAHRUNG": "",
-    JOB: "Hast du einen Auftrag für Marie? Schreibe NACHRICHT, wenn du in Kontakt treten willst, oder lass mich wissen, wie ich dich erreichen kann.\nOder erfahre mehr, schreib zum Beispiel 'TEXTE'",
+    "JOB": "Hast du einen Auftrag für Marie? Schreibe NACHRICHT, wenn du in Kontakt treten willst, oder lass mich wissen, wie ich dich erreichen kann.\nOder erfahre mehr, schreib zum Beispiel 'TEXTE'",
     "ARBEIT": "Hast du einen Auftrag für Marie? Schreibe NACHRICHT, wenn du in Kontakt treten willst, oder lass mich wissen, wie ich dich erreichen kann.\nOder erfahre mehr, schreib zum Beispiel 'TEXTE'",
     "PROGRAMMIEREN": "Programmieren ist zaubern.\nMarie hat u.a. Erfahrung mit HTML, CSS, JavaScript, jQuery und Node.\nAuch MICH hat sie programmiert.",
     "BABYSITTEN": "Sie mag Kinder. Vielleicht will sie mal auf deine aufpassen, wenn du sie ordentlich bezahlst?",
@@ -565,7 +565,6 @@
 
     "": "ok.",
 
-    //Konvo-Netz
     "//neuer Lebenslauf-Baum, Konvonetz im MKI, -mkii imp2.json-":"ok",
 
     "INTRO": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
