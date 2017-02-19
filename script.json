@@ -29,9 +29,9 @@
     "WIE KANN ICH MARIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "WIE KANN ICH SIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "WIE KANN ICH SIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "KANN ICH MIT MARIE SPRECHEN?": "Marie ist gerade nicht da, aber du kannst ihr eine Nachricht schreiben: %[Email schreiben](mailto:marie@kilg.de)",
+    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de)%[Tweet schreiben (https://twitter.com/intent/tweet?screen_name=mkilg_official)",
+    "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
+    "KANN ICH MIT MARIE SPRECHEN?": "Marie ist gerade nicht da, aber du kannst ihr eine Nachricht schreiben:%[Email schreiben](mailto:marie@kilg.de)",
     "TWITTER": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
     "ERZÄHL": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "ERZÄHL MIR VON MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
@@ -40,7 +40,7 @@
     "ERZÄHL ETWAS ÜBER MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "UND SONST SO?": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "BIST DU ONLINE?": "JA",
-    "JA": "Warum sprichst du mit mir? Möchtest du mehr wissen über %[mich](postback:bots)\n%[Marie](postback:marie)\nOder ist dir einfach langweilig? %[Mir ist langweilig](postback:langweilig)",
+    "JA": "Was soll ich tun? %[Mehr erzählen](postback:bots)\n%[Marie schreiben](marie@kilg.de)",
     "INTERESSANT": "Warum sprichst du mit mir? %[Ich interessiere mich für Bots.](postback:bots)\n%[Ich interessiere mich für Marie](postback:marie)\n%[Mir ist langweilig](postback:langweilig)",
     "TEST": "test... test...\nIch funktioniere!\nDu auch?",
     "MARIE": "Hast du einen Job für Marie?\nDu solltest ihr eine Email schreiben: %[Nachricht schreiben](mailto:marie@kilg.de)",
@@ -533,7 +533,6 @@
     ":)": ":)",
     ":(": "Du bist traurig?",
     "WEIß NICHT": ":(",
-    "BOTS": "Ich rede nicht gern über Bots.\nDu könntest es googlen.\n:D\nOder Marie anrufen, die redet da gern drüber.",
     "WIE IST IHRE NUMMER?": "Hmm...\nIch weiß gerade nicht, ob ich die rausgeben darf.\nGib mir einfach deine?\näh.\nGeben Sie mir bitte Ihre!\n(Achso und ich werde behaupten, dass ich die nicht verstehe, aber ich notiere sie mir.)",
     "GIBST DU MIR IHRE NUMMER?": "Hmm...\nIch weiß gerade nicht, ob ich die rausgeben darf.\nGib mir einfach deine?\näh.\nGeben Sie mir bitte Ihre!\n(Achso und ich werde behaupten, dass ich die nicht verstehe, aber ich notiere sie mir.)",
     "DANN BRAUCHE ICH IHRE NUMMER": "Hmm...\nIch weiß gerade nicht, ob ich die rausgeben darf.\nGib mir einfach deine?\näh.\nGeben Sie mir bitte Ihre!\n(Achso und ich werde behaupten, dass ich die nicht verstehe, aber ich notiere sie mir.)",
@@ -567,13 +566,14 @@
 
     "//neuer Lebenslauf-Baum, Konvonetz im MKI, -mkii imp2.json-":"ok",
 
-    "INTRO": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
+    "INTRO": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
 
     "MKII": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "BOT": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "DU": "Ich bin ein MKII. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "MICH": "Ich bin MKII. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "BOTS": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
+    "ERZÄHL MEHR": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "DICH": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     
     "MÜNCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht.\nGerade lebt Marie aber nicht mehr da, sondern in BERLIN. Das ist wenigstens nicht so TEUER!",
@@ -581,12 +581,13 @@
 
     "AKTUELL": "Gerade ist Marie in BERLIN.\nBei der TAZ.\nSie war Praktikantin in den Redaktionen WOCHENENDE und ÖKOLOGIE, um ihre DJS-Ausbildung abzuschließen.\nDanach ist sie zu TAZ2 gewechselt, als Vertretung. Soweit ich weiß sind die da ziemlich nett zu ihr und sie hat SPASS.",
     "JETZT": "Gerade ist Marie in BERLIN.\nBei der TAZ.\nSie war Praktikantin in den Redaktionen WOCHENENDE und ÖKOLOGIE, um ihre DJS-Ausbildung abzuschließen.\nDanach ist sie zu TAZ2 gewechselt, als Vertretung. Soweit ich weiß sind die da ziemlich nett zu ihr und sie hat SPASS.",
+    "JETZT...": "Gerade ist Marie in BERLIN.\nBei der TAZ.\nSie war Praktikantin in den Redaktionen WOCHENENDE und ÖKOLOGIE, um ihre DJS-Ausbildung abzuschließen.\nDanach ist sie zu TAZ2 gewechselt, als Vertretung. Soweit ich weiß sind die da ziemlich nett zu ihr und sie hat SPASS.",
 
     "HELP": "Frag mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter' oder 'Lebenslauf'. Wenn ich ein Wort in GROSSBUCHSTABEN schreibe, heißt das, dass es ein Stichwort ist, das ich kenne.\nDu kannst auch versuchen, normal mit mir zu REDEN. Aber bitte sei nicht böse, wenn ich vieles noch nicht verstehe.",
     "HILFE": "Frag mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter' oder 'Lebenslauf'. Wenn ich ein Wort in GROSSBUCHSTABEN schreibe, heißt das, dass es ein Stichwort ist, das ich kenne.\nDu kannst auch versuchen, normal mit mir zu REDEN. Aber bitte sei nicht böse, wenn ich vieles noch nicht verstehe.",
 
-    "LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte ein recht gutes Abi (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule(DJS). Und %[JETZT...](postback:aktuell)",
-    "ZEIG MIR MARIES LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte ein recht gutes Abi (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule(DJS). Und %[JETZT...](postback:aktuell)",
+    "LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte dort ihr Abitur (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule (DJS). Und %[JETZT...](postback:aktuell)",
+    "ZEIG MIR MARIES LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte dort ihr Abitur (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule (DJS). Und %[JETZT...](postback:aktuell)",
 
     "BACHELOR": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
     "AMERIKANISTIK": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
