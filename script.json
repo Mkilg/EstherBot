@@ -29,7 +29,7 @@
     "WIE KANN ICH MARIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "WIE KANN ICH SIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "WIE KANN ICH SIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\nHier: %[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben (https://twitter.com/intent/tweet?text=@mkilg_)",
+    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "KANN ICH MIT MARIE SPRECHEN?": "Marie ist gerade nicht da, aber du kannst ihr eine Nachricht schreiben:%[Email schreiben](mailto:marie@kilg.de)",
     "TWITTER": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
@@ -41,7 +41,7 @@
     "ERZÄHL ETWAS ÜBER MARIE": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "UND SONST SO?": "Was möchtest du wissen? %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht sie gerade?](postback:aktuell)",
     "BIST DU ONLINE?": "JA",
-    "JA": "Was soll ich tun? %[Mehr erzählen](postback:bots)\n%[Marie schreiben](marie@kilg.de)",
+    "JA": "Was soll ich tun? %[Mehr erzählen](postback:bots)\n%[Marie schreiben](mailto:marie@kilg.de)",
     "INTERESSANT": "Warum sprichst du mit mir? %[Ich interessiere mich für Bots.](postback:bots)\n%[Ich interessiere mich für Marie](postback:marie)\n%[Mir ist langweilig](postback:langweilig)",
     "TEST": "test... test...\nIch funktioniere!\nDu auch?",
     "MARIE": "Hast du einen Job für Marie?\nDu solltest ihr eine Email schreiben: %[Nachricht schreiben](mailto:marie@kilg.de)",
@@ -71,7 +71,6 @@
      "M94.5": "*under construction*",
      "M94,5": "*under construction*",
      "M94.5": "*under construction*",
-    "FLUX": "Dieser Bereich ist noch *under construction*\nAber schau: %[Fluxmagazin.de](http://fluxmagazin.de)",
     "ZEITUNG": "*under construction*",
     "WEB": "*under construction*",
     "ONLINE": "*under construction*",
@@ -167,6 +166,8 @@
     "ENTSCHULDIGUNG": "Angenommen.",
     "TSCHULDIGUNG": "Angenommen.",
     "OK":"k",
+    "OK GUT": "gut",
+    "GUT": "ja.",
     "HA": "jo.",
     "HAHA": ":)",
     "HAHAH": ":)",
@@ -574,6 +575,7 @@
     "MICH": "Ich bin MKII. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "BOTS": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "ERZÄHL MEHR": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
+    "MEHR ERZÄHLEN": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "DICH": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     
     "MÜNCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht.\nGerade lebt Marie aber nicht mehr da, sondern in BERLIN. Das ist wenigstens nicht so TEUER!",
@@ -679,9 +681,9 @@
     "ONLINE": "Wenn Marie sich nicht für Online-Journalismus interessieren würde, dann gäbe es mich nicht :D\nWenn du mehr wissen willst, frag mich zum Beispiel nach FLUX.",
     "INTERNET":  "Wenn Marie sich nicht für Online-Journalismus interessieren würde, dann gäbe es mich nicht :D\nWenn du mehr wissen willst, frag mich zum Beispiel nach FLUX.",
 
-    "FLUX": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der %[Website](http://fluxmagazin.de) und des SOCIAL MEDIA Auftritts. Das Heft ist auch als %[kostenlose App](http://www.klartext-magazin.de/54K/download/) erhältlich.",
-    "FLUX MAGAZIN": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der %[Website](http://fluxmagazin.de) und des SOCIAL MEDIA Auftritts. Das Heft ist auch als %[kostenlose App](http://www.klartext-magazin.de/54K/download/) erhältlich.",
-    "FLUXMAGAZIN": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der %[Website](http://fluxmagazin.de) und des SOCIAL MEDIA Auftritts. Das Heft ist auch als %[kostenlose App](http://www.klartext-magazin.de/54K/download/) erhältlich.",
+    "FLUX": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der WEBSITE und des SOCIAL MEDIA Auftritts. Das Heft ist auch als kostenlose App erhältlich. %[Website](http://fluxmagazin.de) %[App](http://www.klartext-magazin.de/54K/download/)",
+    "FLUX MAGAZIN": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der WEBSITE und des SOCIAL MEDIA Auftritts. Das Heft ist auch als kostenlose App erhältlich. %[Website](http://fluxmagazin.de) %[App](http://www.klartext-magazin.de/54K/download/)",
+    "FLUXMAGAZIN": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der WEBSITE und des SOCIAL MEDIA Auftritts. Das Heft ist auch als kostenlose App erhältlich. %[Website](http://fluxmagazin.de) %[App](http://www.klartext-magazin.de/54K/download/)",
 
     "ÖKOLOGIE": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
     "OEKOLOGIE": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
@@ -707,6 +709,8 @@
     "WAS LERNT SIE DENN SO?": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
     "WLSDS": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
     "WAS LERNT SIE DENN SO": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
+    "WAS LERNT SIE DENN?": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
+    "WAS LERNT SIE DENN": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
 
      "WARUM?": "Marie hat im August 2016 ihre Ausbildung an der Deutschen Journalistenschule (DJS) beendet.\nDa hatte sie auf einmal wieder ZEIT für andere Projekte. PROGRAMMIEREN zu lernen, stand schon länger auf der Liste.\nIch, also ein Bot, der ihren LEBENSLAUF erzählen kann, bin das erste Projekt.\nIch soll ihr bei zwei Dingen helfen: Beim LERNEN, und vielleicht dabei, einen JOB zu finden.",
     "WARUM": "Marie hat im August 2016 ihre Ausbildung an der Deutschen Journalistenschule (DJS) beendet.\nDa hatte sie auf einmal wieder ZEIT für andere Projekte. PROGRAMMIEREN zu lernen, stand schon länger auf der Liste.\nIch, also ein Bot, der ihren LEBENSLAUF erzählen kann, bin das erste Projekt.\nIch soll ihr bei zwei Dingen helfen: Beim LERNEN, und vielleicht dabei, einen JOB zu finden.",
@@ -809,7 +813,7 @@
     "DATEN": "Oh, tut mir Leid. Dieser Bereich ist noch nicht fertig.",
     "AVID": "Jap. Kann sie.",
     
-    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 15.28",
+    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 15.41",
 
 
     "CONNECT ME": "",
