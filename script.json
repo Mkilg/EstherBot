@@ -20,8 +20,8 @@
     "GUTEN ABEND": "Guten Abend!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)%[Help](postback:help)",
     
 "//Basic Funktionen":".",
-    "FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
-    "FUN FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
+    "FACT": "Marie hat gerade einen gebrochenen Ellenbogen, weil sie zu dumm zum Schlittschuhlaufen ist.\nOh, ist gar nicht fun.\nAber ein Facts.",
+    "FUN FACT": "Marie hat gerade einen gebrochenen Ellenbogen, weil sie zu dumm zum Schlittschuhlaufen ist.\nOh, ist gar nicht fun.\nAber ein Facts.",
     "REDEN": "Frag mich etwas. Am liebsten spreche ich über Marie, denn da bin ich vorbereitet. Groß- und Kleinschreibung ist egal, aber manchmal bringen mich Satzzeichen durcheinander. Lass sie am besten weg.\nThx.",
     "WEBSITE": "Sie hat noch keine Website...\nLame, ich weiß.\nIch sag ihr das jeden Tag.\nAngeblich arbeitet sie dran...",
     "NACHRICHT SENDEN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
@@ -475,14 +475,14 @@
      
     "WAS VERSTEHST DU": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)\nViele Menschen versuchen auch, mich zu beleidigen, das kannst du natürlich auch tun.",
     "WAS VERSTEHST DU?": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)\nViele Menschen versuchen auch, mich zu beleidigen, das kannst du natürlich auch tun.",
-    "WAS VERSTEHST DU DENN?": "Chill, ich lerne noch.\nIch bin erst zwei Monate alt, ok?\nMeine Erschafferin hat im September zum ersten Mal JavaScript benutzt.\nMeine Güte.",
-    "WAS VERSTEHST DU DENN": "Chill, ich lerne noch.\nIch bin erst zwei Monate alt, ok?\nMeine Erschafferin hat im September zum ersten Mal JavaScript benutzt.\nMeine Güte.",
+    "WAS VERSTEHST DU DENN??": "Chill, ich lerne noch.",
+    "WAS VERSTEHST DU DENN":"Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)\nViele Menschen versuchen auch, mich zu beleidigen, das kannst du natürlich auch tun.",
     "DU NERVST":"Chill, ich lerne noch.\n",
     "DU NERVST!":"Chill, ich lerne noch.\n",
     "WAS KANNST DU": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)",
     "WAS KANNST DU?": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)",
-    "WAS KANNST DU DENN?": "Chill, ich lerne noch.\nIch bin erst zwei Monate alt, ok?\nMeine Erschafferin hat im September zum ersten Mal JavaScript benutzt.\nMeine Güte.",
-    "WAS KANNST DU DENN": "Chill, ich lerne noch.\nIch bin erst zwei Monate alt, ok?\nMeine Erschafferin hat im September zum ersten Mal JavaScript benutzt.\nMeine Güte.",
+    "WAS KANNST DU DENN?": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)\nViele Menschen versuchen auch, mich zu beleidigen, das kannst du natürlich auch tun.",
+    "WAS KANNST DU DENN": "Kaum etwas, offensichtlich.\nAm besten, du probierst eine dieser Optionen: %[Lebenslauf](postback:lebenslauf)\n%[Fun Fact](postback:fact)\n%[Was macht Marie gerade?](postback:aktuell)\n%[Witz](postback:witz)\nViele Menschen versuchen auch, mich zu beleidigen, das kannst du natürlich auch tun.",
     
     "DAS IST DOOF": "Ja.\nFinde ich auch.",
     "DAS IST DOOF.": "Ja.\nFinde ich auch.",
@@ -807,13 +807,18 @@
     "TZ": "Während der Ausbildung durfte Maries Klasse eine ganze tz-Ausgabe zum Thema Gesundheit und Medizin gestalten. Wenn du mehr darüber wissen willst, schau hier: %[Website](Das Zeitungsprojekt der Deutschen Journalistenschule und der tz)",
     "SUEDDEUTSCHE": "Sie hat da zum Beispiel während der DJS im Rechercheseminar mit Kollegen eine Seite zum Thema Biosiegel gestaltet. Im Mai will sie für ein Praktikum in die Entwicklungsredaktion der SZ. Sie hofft, dass sie dort noch mehr über VIDEO- und DATENjournalismus LERNEN kann.",  
     "SZ": "Sie hat da zum Beispiel während der DJS im Rechercheseminar mit Kollegen eine Seite zum Thema Biosiegel gestaltet. Im Mai will sie für ein Praktikum in die Entwicklungsredaktion der SZ. Sie hofft, dass sie dort noch mehr über VIDEO- und DATENjournalismus LERNEN kann.", 
+    "SPIEGEL": "Ich glaube schon, dass Marie ganz gerne beim Spiegel Yoga machen würde...",
+    "SPIEGEL DAILY": "Cooles Projekt! Stelle frei? [JA](mailto:marie@kilg.de)",
     "TEUER": "Wenn Du einen gut bezahlten JOB für Marie hast, sag Bescheid! Schreib ihr eine %[NACHRICHT](mailto:marie@kilg.de)",
     "THEMEN": "Sie schreibt z.B. gerne über Wissenschaft, Technik, Netzpolitik, ...\nAber sie ist auch eine Generalistin und will nichts ausschließen.\nSich in neue Themen einzuarbeiten, macht ja auch SPASS.",
+    "ZEIT DIGITAL": "Ich bin nicht befugt, darüber zu sprechen",
     
     "DATEN": "Oh, tut mir Leid. Dieser Bereich ist noch nicht fertig.",
     "AVID": "Jap. Kann sie.",
     
     "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 15.41",
+    "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
+    "AKTUELL ZULETZT AKTUALISIERT AM": "",
 
 
     "CONNECT ME": "",
