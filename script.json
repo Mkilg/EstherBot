@@ -24,14 +24,14 @@
     "FUN FACT": "Marie hat gerade einen gebrochenen Ellenbogen, weil sie zu dumm zum Schlittschuhlaufen ist.\nOh, ist gar nicht fun.\nAber ein Facts.",
     "REDEN": "Frag mich etwas. Am liebsten spreche ich über Marie, denn da bin ich vorbereitet. Groß- und Kleinschreibung ist egal, aber manchmal bringen mich Satzzeichen durcheinander. Lass sie am besten weg.\nThx.",
     "WEBSITE": "Sie hat noch keine Website...\nLame, ich weiß.\nIch sag ihr das jeden Tag.\nAngeblich arbeitet sie dran...",
-    "NACHRICHT SENDEN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "WIE KANN ICH MARIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "WIE KANN ICH MARIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "WIE KANN ICH SIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "WIE KANN ICH SIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "ICH MÖCHTE IHR SCHREIBEN": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "NACHRICHT SENDEN": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "WIE KANN ICH MARIE KONTAKTIEREN": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "WIE KANN ICH MARIE KONTAKTIEREN?": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "WIE KANN ICH SIE KONTAKTIEREN": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "WIE KANN ICH SIE KONTAKTIEREN?": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "NACHRICHT": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "MAIL": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email](mailto:marie@kilg.de) %[Twitter](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "ICH MÖCHTE IHR SCHREIBEN": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "KANN ICH MIT MARIE SPRECHEN?": "Marie ist gerade nicht da, aber du kannst ihr eine Nachricht schreiben:%[Email schreiben](mailto:marie@kilg.de)",
     "TWITTER": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
     "TWEET": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
@@ -720,9 +720,9 @@
     "WAS LERNT SIE DENN?": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
     "WAS LERNT SIE DENN": "Gerade lernt Marie PROGRAMMIEREN. Sie hat auch SPANISCH gelernt und Gitarre spielen. Ich glaube, sie denkt, sie kann so ziemlich alles lernen. Außer wahrscheinlich kochen.",
 
-     "WARUM?": "Marie hat im August 2016 ihre Ausbildung an der Deutschen Journalistenschule (DJS) beendet.\nDa hatte sie auf einmal wieder ZEIT für andere Projekte. PROGRAMMIEREN zu lernen, stand schon länger auf der Liste.\nIch, also ein Bot, der ihren LEBENSLAUF erzählen kann, bin das erste Projekt.\nIch soll ihr bei zwei Dingen helfen: Beim LERNEN, und vielleicht dabei, einen JOB zu finden.",
-    "WARUM": "Marie hat im August 2016 ihre Ausbildung an der Deutschen Journalistenschule (DJS) beendet.\nDa hatte sie auf einmal wieder ZEIT für andere Projekte. PROGRAMMIEREN zu lernen, stand schon länger auf der Liste.\nIch, also ein Bot, der ihren LEBENSLAUF erzählen kann, bin das erste Projekt.\nIch soll ihr bei zwei Dingen helfen: Beim LERNEN, und vielleicht dabei, einen JOB zu finden.",
-
+     "WARUM?": "Marie hat im August 2016 ihre Ausbildung an der Deutschen Journalistenschule (DJS) beendet. Da hatte sie auf einmal wieder ZEIT für andere Projekte. PROGRAMMIEREN stand schon länger auf der Liste.\nIch, also ein Bot, der ihren LEBENSLAUF erzählen kann, bin das erste Projekt. Ich soll ihr bei zwei Dingen helfen: Beim LERNEN, und vielleicht dabei, einen JOB zu finden.",
+    "WARUM": "Marie hat im August 2016 ihre Ausbildung an der Deutschen Journalistenschule (DJS) beendet. Da hatte sie auf einmal wieder ZEIT für andere Projekte. PROGRAMMIEREN stand schon länger auf der Liste.\nIch, also ein Bot, der ihren LEBENSLAUF erzählen kann, bin das erste Projekt. Ich soll ihr bei zwei Dingen helfen: Beim LERNEN, und vielleicht dabei, einen JOB zu finden.",
+    
     "ZEIT": "Arbeitest du bei der Zeit? Bei Zeit Online soll ja eine Stelle in der Entwicklungsredaktion frei sein...\nMöchtest du Marie nicht mal einladen, damit ihr euch kennenlernen könnt? %[OK](mailto:marie@kilg.de)",
 
     "EDINBURGH": "Das war ein einmonatiges Reisejournalismus-Projekt der Curso eG. im Jahr 2011. Vormittags Seminare, nachmittags am Reiseführer arbeiten (auf ENGLISCH).\nSchön für Marie, weil sie eh so gerne auf REISEN ist.\nUnd weil sie sich die Rubrik ESSEN geschnappt hat ;)",
@@ -824,7 +824,7 @@
     "DATEN": "Oh, tut mir Leid. Dieser Bereich ist noch nicht fertig.",
     "AVID": "Jap. Kann sie.",
     
-    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 18.41",
+    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 19.19",
     "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
     "AKTUELL ZULETZT AKTUALISIERT AM": "",
 
