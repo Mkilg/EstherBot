@@ -63,6 +63,8 @@ module.exports = new Script({
                              return bot.say(`Hmm. Kannst du das anders formulieren?`).then(() => 'speak');
                         } else if (0.80 < zufall <=0.90) {
                              return bot.say(`Das verstehe ich nicht.`).then(() => 'speak');
+                        } else if (0.90 < zufall <=0.95) {
+                             return bot.say(`Ich bin nicht befugt, darüber zu sprechen.`).then(() => 'speak');
                         } else {
                             return bot.say(`Tut mir Leid, ich verstehe noch nicht so viel. Möchtest du lieber mit Marie selbst sprechen? Dann schreibe "Nachricht".`).then(() => 'speak');
                         };
