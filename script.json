@@ -24,13 +24,13 @@
     "FUN FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
     "REDEN": "Frag mich etwas. Am liebsten spreche ich über Marie, denn da bin ich vorbereitet. Groß- und Kleinschreibung ist egal, aber manchmal bringen mich Satzzeichen durcheinander. Lass sie am besten weg.\nThx.",
     "WEBSITE": "Sie hat noch keine Website...\nLame, ich weiß.\nIch sag ihr das jeden Tag.\nAngeblich arbeitet sie dran...",
-    "NACHRICHT SENDEN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "WIE KANN ICH MARIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "WIE KANN ICH MARIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "WIE KANN ICH SIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "WIE KANN ICH SIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\nHier: %[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben (https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
+    "NACHRICHT SENDEN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "WIE KANN ICH MARIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "WIE KANN ICH MARIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "WIE KANN ICH SIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "WIE KANN ICH SIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\nHier: %[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben (https://twitter.com/intent/tweet?text=@mkilg_)",
+    "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) \nOder %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "KANN ICH MIT MARIE SPRECHEN?": "Marie ist gerade nicht da, aber du kannst ihr eine Nachricht schreiben:%[Email schreiben](mailto:marie@kilg.de)",
     "TWITTER": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
     "TWEET": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
@@ -54,7 +54,6 @@
     "TEUER": "Wenn Du einen gut bezahlten JOB für Marie hast, sag Bescheid! Schreib ihr eine NACHRICHT.",
     "TAZ": "Bei der Taz hat Marie ihr erstes Praktikum gemacht nach der DJS. Zuerst war sie 2 Monate bei taz am WOCHENENDE. Dann einen Monat in der Redaktion ÖKOLOGIE und Wirtschaft.",
     "WOCHENENDE": "Die Zeit bei der taz am wochenende war toll. Marie durfte ein bisschen was SCHREIBEN für die Zeitung, aber auch VIDEOS machen. Das TEAM war nett. Und ein MAGAZIN zu machen, hat großen SPASS gemacht.",
-    "SCHREIBEN": "*under construction*",
     "VIDEOS": "*under construction*",
     "TEAM": "*under construction*",
     "SPASS": "*under construction*",
@@ -260,6 +259,8 @@
     "HAT MARIE EINEN MASTER?": "Nein. Sollte sie einen haben?",
     "HAT MARIE EINEN MASTER": "Nein. Sollte sie einen haben?",
     "HAT SIE EINEN MASTER": "Nein. Sollte sie einen haben?",
+    
+    "WANN WAR DAS?": "Tut mir leid, ich bin noch ein bisschen dumm und verstehe keine Zusammenhänge.\n:(",
     
     "WAS KANN MARIE?": "Hui.\nDu weißt schon, dass ich dazu programmiert wurde, sie zu loben.\nMarie kann hauptsächlich: Sich Mühe geben, alles zu lernen, was sie lernen muss.\nIch kann dir von ihren INTERESSEN erzählen...",
     "WAS KANN MARIE": "Hui.\nDu weißt schon, dass ich dazu programmiert wurde, sie zu loben.\nMarie kann hauptsächlich: Sich Mühe geben, alles zu lernen, was sie lernen muss.\nIch kann dir von ihren INTERESSEN erzählen...",
@@ -762,6 +763,7 @@
     "TEXT": "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\nFake-News auf Facebook - Das mit dem Internet%[taz.de](http://www.taz.de/!5360665/)\nRaumfahrt ohne Treibstoff - Unmöglicher Antrieb%[taz.de](http://www.taz.de/!5360382/)%\nPsychologie/Prognosen - Warum wir so schlecht zielen[Flux](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
     "ARTIKEL": "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\nFake-News auf Facebook - Das mit dem Internet%[taz.de](http://www.taz.de/!5360665/)\nRaumfahrt ohne Treibstoff - Unmöglicher Antrieb%[taz.de](http://www.taz.de/!5360382/)%\nPsychologie/Prognosen - Warum wir so schlecht zielen[Flux](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
     "LESEPROBEN": "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\nFake-News auf Facebook - Das mit dem Internet%[taz.de](http://www.taz.de/!5360665/)\nRaumfahrt ohne Treibstoff - Unmöglicher Antrieb%[taz.de](http://www.taz.de/!5360382/)%\nPsychologie/Prognosen - Warum wir so schlecht zielen[Flux](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
+    "ZEIGE TEXTE": "Möchtest du Artikel von Marie lesen? Wie wäre es damit:\nFake-News auf Facebook - Das mit dem Internet%[taz.de](http://www.taz.de/!5360665/)\nRaumfahrt ohne Treibstoff - Unmöglicher Antrieb%[taz.de](http://www.taz.de/!5360382/)%\nPsychologie/Prognosen - Warum wir so schlecht zielen[Flux](http://www.klartext-magazin.de/54K/warum-wir-so-schlecht-zielen/)\nOder schreibe MEHR TEXTE",
     
     "MEHR TEXTE": "Alle Texte von Marie auf %[taz.de](http://www.taz.de/Marie-Kilg/!a35915/)\n%[Was sagt Google?](http://lmgtfy.com/?q=marie+kilg)",
     "MEHR ARTIKEL": "Alle Texte von Marie auf %[taz.de](http://www.taz.de/Marie-Kilg/!a35915/)\n%[Was sagt Google?](http://lmgtfy.com/?q=marie+kilg)",
@@ -799,6 +801,15 @@
     "OBATZDA": "Der Text darüber ist im Dezember in der MUH erschienen.\nWenn du sie nett fragst, gibt Marie dir vielleicht das Originalrezept %[Nachricht senden](mailto:marie@kilg.de)",
     
     "TZ": "Während der Ausbildung durfte Maries Klasse eine ganze tz-Ausgabe zum Thema Gesundheit und Medizin gestalten. Wenn du mehr darüber wissen willst, schau hier: %[Website](Das Zeitungsprojekt der Deutschen Journalistenschule und der tz)",
+    "SUEDDEUTSCHE": "Sie hat da zum Beispiel während der DJS im Rechercheseminar mit Kollegen eine Seite zum Thema Biosiegel gestaltet. Im Mai will sie für ein Praktikum in die Entwicklungsredaktion der SZ. Sie hofft, dass sie dort noch mehr über VIDEO- und DATENjournalismus LERNEN kann.",  
+    "SZ": "Sie hat da zum Beispiel während der DJS im Rechercheseminar mit Kollegen eine Seite zum Thema Biosiegel gestaltet. Im Mai will sie für ein Praktikum in die Entwicklungsredaktion der SZ. Sie hofft, dass sie dort noch mehr über VIDEO- und DATENjournalismus LERNEN kann.", 
+    "TEUER": "Wenn Du einen gut bezahlten JOB für Marie hast, sag Bescheid! Schreib ihr eine %[NACHRICHT](mailto:marie@kilg.de)",
+    "THEMEN": "Sie schreibt z.B. gerne über Wissenschaft, Technik, Netzpolitik, ...\nAber sie ist auch eine Generalistin und will nichts ausschließen.\nSich in neue Themen einzuarbeiten, macht ja auch SPASS.",
+    
+    "DATEN": "Oh, tut mir Leid. Dieser Bereich ist noch nicht fertig.",
+    "AVID": "Jap. Kann sie.",
+    
+    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 15.24",
 
 
     "CONNECT ME": "",
