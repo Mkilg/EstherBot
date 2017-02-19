@@ -597,7 +597,7 @@
     "ICH VERSTEHE DICH AUCH NICHT": "Frag mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter' oder 'Lebenslauf'. Wenn ich ein Wort in GROSSBUCHSTABEN schreibe, heißt das, dass es ein Stichwort ist, das ich kenne.\nDu kannst auch versuchen, normal mit mir zu REDEN. Aber bitte sei nicht böse, wenn ich vieles noch nicht verstehe.",
     "DAS VERSTEHE ICH NICHT": "Dann sind wir schon 2.",
 
-    "LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte dort ihr Abitur (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule (DJS). Und %[JETZT...](postback:aktuell)",
+    "LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte dort ihr Abitur (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikation (KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule (DJS). Und %[JETZT...](postback:aktuell)",
     "ZEIG MIR MARIES LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte dort ihr Abitur (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus, studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem BACHELOR ab und besuchte danach die Deutsche Journalistenschule (DJS). Und %[JETZT...](postback:aktuell)",
 
     "BACHELOR": "Marie hat einen Bachelor in Amerikanistik von der LMU München (Abschlussnote 1,7)\nSchwerpunkte: amerikanische Geschichte und Literatur.\nIhre Bachelor-Arbeit hat sie über ZEITreisen geschrieben.",
@@ -651,6 +651,8 @@
 
     "GROSSBUCHSTABEN": "Super, du hast es verstanden! Schreibe jetzt etwas anderes!",
     "GROßBUCHSTABEN": "Super, du hast es verstanden! Schreibe jetzt etwas anderes!",
+    "GROßGESCHRIEBEN": "Super, du hast es verstanden! Schreibe jetzt etwas anderes!",
+    "GROSSGESCHRIEBEN": "Super, du hast es verstanden! Schreibe jetzt etwas anderes!",
     "ETWAS ANDERES": "Oh man.\nBin ich der Bot oder du?\nSei kreativ!",
     "ETWAS ANDRES": "Oh man.\nBin ich der Bot oder du?\nSei kreativ!",
     "STICHWORT": "Oh man.\nBin ich der Bot oder du?\nSei kreativ!",
@@ -825,7 +827,7 @@
     "DATEN": "Oh, tut mir Leid. Dieser Bereich ist noch nicht fertig.",
     "AVID": "Jap. Kann sie.",
     
-    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 19.23",
+    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 19.39",
     "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
     "AKTUELL ZULETZT AKTUALISIERT AM": "",
 
