@@ -4,20 +4,20 @@
     "HELLO": "Hey :)\nYou can ask me questions about Marie. But i'm still working on my English, so please speak German for now.", 
     "TALK TO HER": "Do you want to send Marie a message?\n %[Email her](mailto:marie@kilg.de) %[Tweet to Marie](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
 "//Begrüßungen":".",  
-    "HALLO": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
-     "HI": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
-     "HEY": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
-     "GUTEN TAG": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
-     "GUTEN TAG!": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
-     "HALLO!": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
-    "HE": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
+    "HALLO": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
+     "HI": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
+     "HEY": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
+     "GUTEN TAG": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
+     "GUTEN TAG!": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
+     "HALLO!": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
+    "HE": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
     "HELP": "Frag mich etwas, oder schreibe ein Stichwort, z.B. 'Twitter' oder 'Lebenslauf'. Wenn ich ein Wort in GROSSBUCHSTABEN schreibe, heißt das, dass es ein Stichwort ist, unter dem du weiter fragen kannst.\nDu kannst auch versuchen, normal mit mir zu REDEN. Aber bitte sei nicht böse, wenn ich vieles noch nicht verstehe.",
     "GROSSBUCHSTABEN": "Toll, du hast es verstanden.\nSchreib jetzt etwas anderes!",
     "ETWAS ANDERES": "Oh man.\nBin ich der Bot oder du?\nSei kreativ!",
-    "GUTEN MORGEN": "Morgen!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
-    "GUTEN MORGEN!": "Morgen!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)", 
+    "GUTEN MORGEN": "Morgen!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
+    "GUTEN MORGEN!": "Morgen!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)", 
     "HALLO MKII": "Hallo! Wie gehts?",
-    "GUTEN ABEND": "Guten Abend!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)%[Wie funktionierst du?](postback:help)",
+    "GUTEN ABEND": "Guten Abend!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)%[Help](postback:help)",
     
 "//Basic Funktionen":".",
     "FACT": "Der unglaubliche spannende FACT DES TAGES ist...\näh\nMarie macht gerade eine Art Gewissenskrise durch, und vielleicht pflanzt sie bald alle Topfpflanzen aus ihrem Zimmer in ein gemeinsames Beet.\nSie hat einen Podcast über die Kommunikation von Pflanzen gehört\nund\nnaja. TMI?",
@@ -29,7 +29,7 @@
     "WIE KANN ICH MARIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "WIE KANN ICH SIE KONTAKTIEREN": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "WIE KANN ICH SIE KONTAKTIEREN?": "Du möchtest ihr eine Nachricht schreiben?\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
-    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de)%[Tweet schreiben (https://twitter.com/intent/tweet?screen_name=mkilg_official)",
+    "NACHRICHT": "Du möchtest ihr eine Nachricht schreiben?\nHier: %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben (https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "MAIL": "Du möchtest ihr eine Nachricht schreiben?\n%[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?screen_name=mkilg_official)",
     "KANN ICH MIT MARIE SPRECHEN?": "Marie ist gerade nicht da, aber du kannst ihr eine Nachricht schreiben:%[Email schreiben](mailto:marie@kilg.de)",
     "TWITTER": "Hier findest du Maries Twitteraccount: %[Marie Kilg Official](https://twitter.com/mkilg_)\nOder willst du ihre Bots sehen? Dann schreibe 'TWITTERBOTS'", 
@@ -566,7 +566,7 @@
 
     "//neuer Lebenslauf-Baum, Konvonetz im MKI, -mkii imp2.json-":"ok",
 
-    "INTRO": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",
+    "INTRO": "Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Help](postback:help)",
 
     "MKII": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     "BOT": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
@@ -612,6 +612,11 @@
 
     "VIDEOS": "Hier kannst du die Videos sehen, die Marie an der JOURNALISTENSCHULE gemacht hat: %[DJS Videos](postback:fehler1)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
     "VIDEO": "Hier kannst du die Videos sehen, die Marie an der JOURNALISTENSCHULE gemacht hat: %[DJS Videos](postback:fehler1)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
+    
+    "DJS VIDEOS": "Oh no. Dieser Bereich ist noch nicht fertig. Frag Marie direkt, sie wird dir helfen: %[Mail](mailto:marie@kilg.de) %[Tweet](http://twitter.com/mkilg_)",
+    "ZEIG!": "Promo-Video Kolumnenlesung: %[What the taz?](vimeo.com/user21603312)\nDrei Filmchen übers SCHREIBEN: %[Schock](vimeo.com/187675828) %[Liebe](vimeo.com/187675826) %[Cliffhanger](vimeo.com/187675827)\nGanz was Schräges: %[Deutschland](facebook.com/tazamwe/videos/1082150178505463/?hc_ref=NEWSFEED)",
+    "TAZVIDEOS": "Promo-Video Kolumnenlesung: %[What the taz?](vimeo.com/user21603312)\nDrei Filmchen übers SCHREIBEN: %[Schock](vimeo.com/187675828) %[Liebe](vimeo.com/187675826) %[Cliffhanger](vimeo.com/187675827)\nGanz was Schräges: %[Deutschland](facebook.com/tazamwe/videos/1082150178505463/?hc_ref=NEWSFEED)",
+
 
     "FEHLER1": "Oh no. Dieser Bereich ist noch nicht fertig. Frag Marie direkt, sie wird dir helfen: %[Mail](mailto:marie@kilg.de) %[Tweet](http://twitter.com/mkilg_)",
 
