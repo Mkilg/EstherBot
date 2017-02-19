@@ -29,7 +29,7 @@
     "WIE KANN ICH MARIE KONTAKTIEREN?": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "WIE KANN ICH SIE KONTAKTIEREN": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "WIE KANN ICH SIE KONTAKTIEREN?": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
-    "NACHRICHT": "Hier kannst du Marie eine Nachricht schreiben:%[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
+    "NACHRICHT": "Hier kannst du Marie eine Nachricht schreiben: %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "MAIL": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email](mailto:marie@kilg.de) %[Twitter](https://twitter.com/intent/tweet?text=@mkilg_)",
     "ICH MÖCHTE IHR SCHREIBEN": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
     "KANN ICH MIT MARIE SPRECHEN?": "Marie ist gerade nicht da, aber du kannst ihr eine Nachricht schreiben:%[Email schreiben](mailto:marie@kilg.de)",
@@ -817,7 +817,7 @@
     "SUEDDEUTSCHE": "Sie hat da zum Beispiel während der DJS im Rechercheseminar mit Kollegen eine Seite zum Thema Biosiegel gestaltet. Im Mai will sie für ein Praktikum in die Entwicklungsredaktion der SZ. Sie hofft, dass sie dort noch mehr über VIDEO- und DATENjournalismus LERNEN kann.",  
     "SZ": "Sie hat da zum Beispiel während der DJS im Rechercheseminar mit Kollegen eine Seite zum Thema Biosiegel gestaltet. Im Mai will sie für ein Praktikum in die Entwicklungsredaktion der SZ. Sie hofft, dass sie dort noch mehr über VIDEO- und DATENjournalismus LERNEN kann.", 
     "SPIEGEL": "Ich glaube schon, dass Marie ganz gerne beim Spiegel Yoga machen würde...",
-    "SPIEGEL DAILY": "Cooles Projekt! Stelle frei? [JA](mailto:marie@kilg.de)",
+    "SPIEGEL DAILY": "Cooles Projekt! Stelle frei? %[JA](mailto:marie@kilg.de)",
     "TEUER": "Wenn Du einen gut bezahlten JOB für Marie hast, sag Bescheid! Schreib ihr eine %[NACHRICHT](mailto:marie@kilg.de)",
     "THEMEN": "Sie schreibt z.B. gerne über Wissenschaft, Technik, Netzpolitik, ...\nAber sie ist auch eine Generalistin und will nichts ausschließen.\nSich in neue Themen einzuarbeiten, macht ja auch SPASS.",
     "ZEIT DIGITAL": "Ich bin nicht befugt, darüber zu sprechen",
@@ -825,7 +825,7 @@
     "DATEN": "Oh, tut mir Leid. Dieser Bereich ist noch nicht fertig.",
     "AVID": "Jap. Kann sie.",
     
-    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 19.16",
+    "VERSION": "Script zuletzt aktualisiert am 19.02.2017 um 19.23",
     "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
     "AKTUELL ZULETZT AKTUALISIERT AM": "",
 
