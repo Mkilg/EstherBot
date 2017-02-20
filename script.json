@@ -830,10 +830,14 @@
     "DATEN": "Oh, tut mir Leid. Dieser Bereich ist noch nicht fertig.",
     "AVID": "Jap. Kann sie.",
     
-    "IM BROWSER:": "http://mkii.herokuapp.com",
-    "ODER IM FACEBOOK MESSENGER": "m.me/mkiibot",
+    "OH MEIN FEHLER": "Schon ok :)",
+    "DU KANNST DAS!": "Ich kann das.",
+    "DU KANNST DAS": "ICH KANN DAS",
     
-    "VERSION": "Script zuletzt aktualisiert am 20.02.17 um 23.15",
+    "IM BROWSER:": "http://mkii.herokuapp.com",
+    "ODER IM FACEBOOK MESSENGER:": "m.me/mkiibot",
+    
+    "VERSION": "Script zuletzt aktualisiert am 20.02.17 um 23.21",
     "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
     "AKTUELL ZULETZT AKTUALISIERT AM": "",
 
