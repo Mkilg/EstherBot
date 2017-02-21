@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('"Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte, wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Wie funktionierst du?](postback:help)",')
+            return bot.say('Hallo!\nIch bin MKII, der persönliche BOT von Marie, einer Journalistin aus MÜNCHEN.\nIch verstehe am besten einzelne Stichworte. Wenn ein Wort GROßGESCHRIEBEN ist, heißt das, dass ich es kenne. Es sind Stichworte, unter denen du weiterfragen kannst.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Was macht sie gerade?](postback:aktuell) %[Ich möchte ihr schreiben](postback:nachricht)')
                 .then(() => 'speak');
         }
     },
