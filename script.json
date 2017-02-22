@@ -20,8 +20,8 @@
     "GUTEN ABEND": "Guten Abend!\nIch bin MKII, der persönliche Bot von Marie, einer Journalistin aus München.\nWie kann ich dir helfen? %[Lebenslauf](postback:lebenslauf) %[Fun Fact](postback:fact) %[Was macht sie gerade?](postback:aktuell)%[Help](postback:help)",
     
 "//Basic Funktionen":".",
-    "FACT": "Marie hat gerade einen gebrochenen Ellenbogen, weil sie zu dumm zum Schlittschuhlaufen ist.\nOh, ist gar nicht fun.\nAber ein Facts.",
-    "FUN FACT": "Marie hat gerade einen gebrochenen Ellenbogen, weil sie zu dumm zum Schlittschuhlaufen ist.\nOh, ist gar nicht fun.\nAber ein Facts.",
+    "FACT": "Marie hat gerade einen gebrochenen Ellenbogen, weil sie zu dumm zum Schlittschuhlaufen ist.\nOh, ist gar nicht fun.\nAber ein Fact.",
+    "FUN FACT": "Marie hat gerade einen gebrochenen Ellenbogen, weil sie zu dumm zum Schlittschuhlaufen ist.\nOh, ist gar nicht fun.\nAber ein Fact.",
     "REDEN": "Frag mich etwas. Am liebsten spreche ich über Marie, denn da bin ich vorbereitet. Groß- und Kleinschreibung ist egal, aber manchmal bringen mich Satzzeichen durcheinander. Lass sie am besten weg.\nThx.",
     "WEBSITE": "Sie hat noch keine Website...\nLame, ich weiß.\nIch sag ihr das jeden Tag.\nAngeblich arbeitet sie dran...",
     "NACHRICHT SENDEN": "Hier kannst du Marie eine Nachricht schreiben:\n %[Email schreiben](mailto:marie@kilg.de) %[Tweet schreiben](https://twitter.com/intent/tweet?text=@mkilg_)",
@@ -53,7 +53,7 @@
 "//Lebenslauf Baum": ".",
     "LEBENSLAUF": "Marie wurde 1992 in MÜNCHEN geboren, ging nach einer längeren Selbstfindungs- und Sprechlernphase auf's Heinrich-Heine-Gymnasium (HHG) und machte ein recht gutes Abi (1,2). Danach sammelte sie erste ERFAHRUNGEN im Journalismus und studierte AMERIKANISTIK und Kommunikationswissenschaften(KW) an der LMU in München, schloss mit einem Bachelor ab (1,7) und besuchte danach die Deutsche Journalistenschule(DJS) in Berg am Laim. Und JETZT...",
     "MÜNCHEN": "In München ist Marie geboren und aufgewachsen. München ist schön. Man sieht oft die BERGE. Von der JOURNALISTENSCHULE aus war die Aussicht besonders schön. Aber München ist auch TEUER, deswegen freut sich Marie auch, dass sie seit einer Weile in BERLIN lebt.",
-    "JETZT": "(postback:aktuell)",
+    "JETZT", "Ö": "(postback:aktuell)",
     "BERLIN": "In Berlin gibt es leckere DÖNER. Auch sonst ist es ganz schön. Außer, dass es halt kalt ist und keinen OBAZDN gibt. In Berlin arbeitet Marie gerade bei der TAZ.",
     "DÖNER": "Maries Lieblingsdöner ist ***HIER KÖNNTE IHRE WERBUNG STEHEN***",
     "TEUER": "Wenn Du einen gut bezahlten JOB für Marie hast, sag Bescheid! Schreib ihr eine NACHRICHT.",
@@ -220,7 +220,9 @@
     "KRASS": "voll.",
     "BUSSI": "knutscha",
     "KUSS": ":-*",
-   
+    "NEIN DANKE": "Ok ;)",
+    "NEIN, DANKE": "Ok ;)",
+    
     "KENNST DU DEN FILM HER?": "Ja...\nWorauf spielst du an?",
     "KENNST DU DEN FILM HER": "Ja...\nWorauf spielst du an?",
     "KENNST DU DEN FILM \"HER\"?": "Ja...\nWorauf spielst du an?",
@@ -707,6 +709,7 @@
     "FLUX": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der WEBSITE und des SOCIAL MEDIA Auftritts. Das Heft ist auch als kostenlose App erhältlich. %[Website](http://fluxmagazin.de) %[App](http://www.klartext-magazin.de/54K/download/)",
     "FLUX MAGAZIN": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der WEBSITE und des SOCIAL MEDIA Auftritts. Das Heft ist auch als kostenlose App erhältlich. %[Website](http://fluxmagazin.de) %[App](http://www.klartext-magazin.de/54K/download/)",
     "FLUXMAGAZIN": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der WEBSITE und des SOCIAL MEDIA Auftritts. Das Heft ist auch als kostenlose App erhältlich. %[Website](http://fluxmagazin.de) %[App](http://www.klartext-magazin.de/54K/download/)",
+    "FLUXMAGAZIN.DE": "FLUX ist ein Magazin, das die 54.Kompaktklasse der DJS konzipiert und umgesetzt hat. Marie war als Online-CvD zuständig für die Planung und Realisierung der WEBSITE und des SOCIAL MEDIA Auftritts. Das Heft ist auch als kostenlose App erhältlich. %[Website](http://fluxmagazin.de) %[App](http://www.klartext-magazin.de/54K/download/)",
 
     "ÖKOLOGIE": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
     "OEKOLOGIE": "Marie mag Wissenschaft, Technik, Wirtschaft. Bei den Öwis durfte sie zum Beispiel über Hackerangriffe schreiben, über Asteroidenbergbau und über einen besonderen %[Raumfahrtantrieb](http://www.taz.de/!5360382/)",
@@ -718,6 +721,7 @@
 
     "WOCHENENDE": "Die Zeit bei der taz am wochenende war toll. Marie durfte ein bisschen was SCHREIBEN für die Zeitung, aber auch VIDEOS machen. Das TEAM war nett. Und ein MAGAZIN zu machen, hat großen SPASS gemacht.",
     "TAZ AM WOCHENENDE": "Die Zeit bei der taz am wochenende war toll. Marie durfte ein bisschen was SCHREIBEN für die Zeitung, aber auch VIDEOS machen. Das TEAM war nett. Und ein MAGAZIN zu machen, hat großen SPASS gemacht.",
+    "TAZ.AM WOCHENENDE": "Die Zeit bei der taz am wochenende war toll. Marie durfte ein bisschen was SCHREIBEN für die Zeitung, aber auch VIDEOS machen. Das TEAM war nett. Und ein MAGAZIN zu machen, hat großen SPASS gemacht.",
 
     "MAGAZIN": "Beim DJS-Abschlussmagazin FLUX war Marie ONLINE-CvD.",
 
@@ -861,10 +865,10 @@
     "PERSÖNLICHE INTERESSEN?": "Fußball, Gitarre, Literatur, Biologie, Physik, Informatik, REISEN",
     "WAS SIND IHRE INTERESSEN": "Fußball, Gitarre, Literatur, Biologie, Physik, Informatik, REISEN",
     
+    "WAS TRÄGST DU DRUNTER?": "Hidden layers.",
     
     
-    
-    "VERSION": "MKII Imp2, Script zuletzt aktualisiert am 21.02.17 um 14.11",
+    "VERSION": "MKII Imp2, Script zuletzt aktualisiert am 22.02.17 um 13.44",
     "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
     "AKTUELL ZULETZT AKTUALISIERT AM": "",
 
