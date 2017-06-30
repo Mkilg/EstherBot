@@ -640,8 +640,9 @@
     "COSTA RICA": "Dort hat sie JOURNALISMUS und Geschichte studiert, in der Hauptstadt San Jose.\nEhrlich gesagt war sie auch viel am Strand.\nAber sie hat ein paar coole VIDEO-Kurse belegt.\nUnd konnte fließend SPANISCH als sie heimkam.",
     "COSTARICA": "Dort hat sie JOURNALISMUS und Geschichte studiert, in der Hauptstadt San Jose.\nEhrlich gesagt war sie auch viel am Strand.\nAber sie hat ein paar coole VIDEO-Kurse belegt.\nUnd konnte fließend SPANISCH als sie heimkam.",
 
-    "VIDEOS": "Hier kannst du die Videos sehen, die Marie an der JOURNALISTENSCHULE gemacht hat: %[DJS Videos](postback:fehler1)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
-    "VIDEO": "Hier kannst du die Videos sehen, die Marie an der JOURNALISTENSCHULE gemacht hat: %[DJS Videos](postback:fehler1)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
+    "VIDEOS": "Hier kannst du ein Video sehen, das Marie neulich auf einem Hackathon gemacht hat: %[PATRONUS](https://vimeo.com/221147989?ref=tw-v-share)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
+    "VIDEO": "Hier kannst du ein Video sehen, das Marie neulich auf einem Hackathon gemacht hat: %[PATRONUS](https://vimeo.com/221147989?ref=tw-v-share)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
+    "Zeig mir Videos": "Hier kannst du ein Video sehen, das Marie neulich auf einem Hackathon gemacht hat: %[PATRONUS](https://vimeo.com/221147989?ref=tw-v-share)\nBei der TAZ hat Marie auch ein paar kleine Filmchen für SOCIAL MEDIA gemacht. Die hat sie auf dem Handy gefilmt und geschnitten.\n%[Zeig!](postback:tazvideos)", 
     
     "DJS VIDEOS": "Oh no. Dieser Bereich ist noch nicht fertig. Frag Marie direkt, sie wird dir helfen: %[Mail](mailto:marie@kilg.de) %[Tweet](http://twitter.com/mkilg_)",
     "ZEIG!": "Promo-Video Kolumnenlesung: %[What the taz?](https://vimeo.com/202957106)\nDrei Filmchen übers SCHREIBEN: %[Schock](https://vimeo.com/187675828) %[Liebe](vimeo.com/187675826) %[Cliffhanger](https://vimeo.com/187675827)\nGanz was Schräges: %[Deutschland](http://facebook.com/tazamwe/videos/1082150178505463/?hc_ref=NEWSFEED)",
@@ -867,7 +868,7 @@
     "WAS TRÄGST DU DRUNTER?": "Hidden layers.\nSpaß, so deep bin ich nicht.",
     
     
-    "VERSION": "MKII Imp2, Script zuletzt aktualisiert am 30.06.17 um 10.54",
+    "VERSION": "MKII Imp2, Script zuletzt aktualisiert am 30.06.17 um 11.02",
     "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
     "AKTUELL ZULETZT AKTUALISIERT AM": "",
 
