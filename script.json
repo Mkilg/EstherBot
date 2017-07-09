@@ -586,11 +586,11 @@
     "MÜNCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht.\nNach 6 Monaten in BERLIN ist Marie jetzt wieder zurück in ihrer Heimatstadt und macht ein Praktikum bei der SZ.",
     "MUENCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht.\nNach 6 Monaten in BERLIN ist Marie jetzt wieder zurück in ihrer Heimatstadt und macht ein Praktikum bei der SZ.",
 
-    "AKTUELL": "Marie ist jetzt wieder in MÜNCHEN.\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "JETZT": "Marie ist jetzt wieder in MÜNCHEN.\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "JETZT...": "Marie ist jetzt wieder in MÜNCHEN.\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "WAS MACHT SIE GERADE?":  "Marie ist jetzt wieder in MÜNCHEN.\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "WAS MACHT MARIE GERADE?": "Marie ist jetzt wieder in MÜNCHEN.\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
+    "AKTUELL": "Marie ist jetzt wieder in %[MÜNCHEN](postback:münchen).\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
+    "JETZT": "Marie ist jetzt wieder in %[MÜNCHEN](postback:münchen).\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
+    "JETZT...": "Marie ist jetzt wieder in %[MÜNCHEN](postback:münchen).\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
+    "WAS MACHT SIE GERADE?":  "Marie ist jetzt wieder in %[MÜNCHEN](postback:münchen).\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
+    "WAS MACHT MARIE GERADE?": "Marie ist jetzt wieder in %[MÜNCHEN](postback:münchen).\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
     "HAT SIE PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
     "HAT MARIE PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
     "WAS HAT MARIE FÜR PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
@@ -843,7 +843,8 @@
     "STARTUP": "Willst du mit Marie ein Startup gründen? %[MELDE DICH!](mailto:marie@kilg.de)",
     "TEUER": "Wenn Du einen gut bezahlten JOB für Marie hast, sag Bescheid! Schreib ihr eine %[NACHRICHT](mailto:marie@kilg.de)",
     "THEMEN": "Sie schreibt z.B. gerne über Wissenschaft, Technik, Netzpolitik, ...\nAber sie ist auch eine Generalistin und will nichts ausschließen.\nSich in neue Themen einzuarbeiten, macht ja auch SPASS.",
-    "ZEIT DIGITAL": "Ich bin nicht befugt, darüber zu sprechen",
+    "CORRECTIV": "Die sind toll!\nDas könnte Marie sich bestimmt gut vorstellen, da zu arbeiten... Stelle frei?\n%[JA](mailto:marie@kilg.de",
+    
     
     "DATEN": "Bei der SZ lernt Marie gerade alles über Datenanalyse und -aufbereitung, zum Beispiel mit der Programmiersprache R, Datawrapper und dem Kartenprogramm QGIS.",
     "AVID": "Jap. Kann sie.",
@@ -873,9 +874,9 @@
     "WAS TRÄGST DU DRUNTER?": "Hidden layers.\nSpaß, so deep bin ich nicht.",
     
     
-    "VERSION": "MKII Imp2, Script zuletzt aktualisiert am 30.06.17 um 11.20",
+    "VERSION": "MKII Imp2, Script zuletzt aktualisiert am 09.07.17 um 14.20",
     "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
-    "AKTUELL ZULETZT AKTUALISIERT AM": "30.06.17",
+    "AKTUELL ZULETZT AKTUALISIERT AM": "30.06.2017",
 
 
     "CONNECT ME": "",
