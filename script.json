@@ -584,7 +584,7 @@
     "DICH": "Ich bin ein Bot. Marie hat mich PROGRAMMIERT.\nWenn du mehr darüber wissen willst, schreibe WIE oder WARUM. Sie hat auch ein paar TWITTERBOTS.",
     
     "MÜNCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht.\nNach 6 Monaten in BERLIN ist Marie jetzt wieder zurück in ihrer Heimatstadt und macht ein Praktikum bei der SZ.",
-    "MÜNCHEN.": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen %[GEARBEITET](postback) und die JOURNALISTENSCHULE besucht.\nNach 6 Monaten in BERLIN ist Marie jetzt wieder zurück in ihrer Heimatstadt und macht ein Praktikum bei der SZ.",
+    "MÜNCHEN.": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen %[GEARBEITET](postback)\n und die JOURNALISTENSCHULE besucht.\nNach 6 Monaten in BERLIN ist Marie jetzt wieder zurück in ihrer Heimatstadt und macht ein Praktikum bei der SZ.",
     "MUENCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht.\nNach 6 Monaten in BERLIN ist Marie jetzt wieder zurück in ihrer Heimatstadt und macht ein Praktikum bei der SZ.",
 
     "AKTUELL": "Marie ist jetzt wieder in %[MÜNCHEN.](postback:münchen)\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
