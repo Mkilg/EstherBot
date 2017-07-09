@@ -46,7 +46,7 @@ module.exports = new Script({
                 if (!_.has(scriptRules, upperText)) {
                     var zufall = Math.random()
                         if (zufall <=0.1) {
-                             return bot.say(`Das verstehe ich nicht.\nSorry!`).then(() => 'speak');
+                             return bot.say(`Was möchtest du tun? %[Mehr erfahren](postback:bots)\n%[Marie schreiben](mailto:marie@kilg.de)`).then(() => 'speak');
                         } else if (0.1 < zufall <=0.20) {
                              return bot.say(`Das kann ich nicht lesen. Vielleicht hat mich ein Tippfehler oder Satzzeichen irritiert.`).then(() => 'speak');
                         } else if (0.2 < zufall <=0.25) {
