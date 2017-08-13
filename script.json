@@ -57,7 +57,7 @@
     "BERLIN": "In Berlin gibt es leckere DÖNER. Auch sonst ist es ganz schön. Außer, dass es halt kalt ist und keinen OBAZDN gibt. In Berlin arbeitet Marie gerade bei der TAZ.",
     "DÖNER": "Maries Lieblingsdöner ist ***HIER KÖNNTE IHRE WERBUNG STEHEN***",
     "TEUER": "Wenn Du einen gut bezahlten JOB für Marie hast, sag Bescheid! Schreib ihr eine NACHRICHT.",
-    "TAZ": "Bei der Taz hat Marie ihr erstes Praktikum gemacht nach der DJS. Zuerst war sie 2 Monate bei taz am WOCHENENDE. Dann einen Monat in der Redaktion ÖKOLOGIE und Wirtschaft.",
+    "TAZ": "<3\nDie Taz ist toll. Hier hat Marie ihr erstes Praktikum nach der DJS gemacht. Dann konnte sie als Vertretung nochmal verlängern. Insgesamt war sie 7 Monate in verschiedenen Redaktionen, eine tolle Zeit.",
     "WOCHENENDE": "Die Zeit bei der taz am wochenende war toll. Marie durfte ein bisschen was SCHREIBEN für die Zeitung, aber auch VIDEOS machen. Das TEAM war nett. Und ein MAGAZIN zu machen, hat großen SPASS gemacht.",
     "VIDEOS": "*under construction*",
     "TEAM": "*under construction*",
@@ -587,17 +587,17 @@
     "MÜNCHEN.": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen %[GEARBEITET](postback)\n und die JOURNALISTENSCHULE besucht.\nNach 6 Monaten in BERLIN ist Marie jetzt wieder zurück in ihrer Heimatstadt und macht ein Praktikum bei der SZ.",
     "MUENCHEN": "Da ist sie geboren und aufgewachsen. Zur SCHULE gegangen ist sie von 1998 bis 2011 in Neubiberg und Neuperlach. Dann hat sie an der LMU studiert, ein bisschen GEARBEITET und die JOURNALISTENSCHULE besucht.\nNach 6 Monaten in BERLIN ist Marie jetzt wieder zurück in ihrer Heimatstadt und macht ein Praktikum bei der SZ.",
 
-    "AKTUELL": "Marie ist jetzt wieder in %[MÜNCHEN.](postback:münchen)\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "JETZT": "Marie ist jetzt wieder in %[MÜNCHEN.](postback:münchen)\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "JETZT...": "Marie ist jetzt wieder in %[MÜNCHEN.](postback:münchen)\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "WAS MACHT SIE GERADE?":  "Marie ist jetzt wieder in %[MÜNCHEN.](postback:münchen)\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "WAS MACHT MARIE GERADE?": "Marie ist jetzt wieder in %[MÜNCHEN.](postback:münchen)\nSie macht ein PRAKTIKUM in der SZ-Entwicklungsredaktion - damit schließt sie ihre DJS-Ausbildung ab.",
-    "HAT SIE PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
-    "HAT MARIE PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
-    "WAS HAT MARIE FÜR PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
-    "WAS HAT SIE GERADE FÜR PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
-    "HAT SIE GERADE PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
-    "HAT MARIE GERADE PLÄNE?": "Ja. Sie würde gerne einen JOB in München finden.",
+    "AKTUELL": "Gerade ist Marie viel unterwegs: Sommerjob bei der %[TAZ](postback:taz)\n in BERLIN, danach geht es in den Urlaub.",
+    "JETZT": "Gerade ist Marie viel unterwegs: Sommerjob bei der %[TAZ](postback:taz)\n in BERLIN, danach geht es in den Urlaub.",
+    "JETZT...": "Gerade ist Marie viel unterwegs: Sommerjob bei der %[TAZ](postback:taz)\n in BERLIN, danach geht es in den Urlaub.",
+    "WAS MACHT SIE GERADE?":  "Gerade ist Marie viel unterwegs: Sommerjob bei der %[TAZ](postback:taz)\n in BERLIN, danach geht es in den Urlaub.",
+    "WAS MACHT MARIE GERADE?": "Gerade ist Marie viel unterwegs: Sommerjob bei der %[TAZ](postback:taz)\n in BERLIN, danach geht es in den Urlaub.",
+    "HAT SIE PLÄNE?": "Ja, immer. Aber gerade darf ich dazu nicht so viel sagen...\nNoch ein bisschen Geduld, dann gibt es News :)",
+    "HAT MARIE PLÄNE?": "Ja, immer. Aber gerade darf ich dazu nicht so viel sagen...\nNoch ein bisschen Geduld, dann gibt es News :)",
+    "WAS HAT MARIE FÜR PLÄNE?": "Ja, immer. Aber gerade darf ich dazu nicht so viel sagen...\nNoch ein bisschen Geduld, dann gibt es News :)",
+    "WAS HAT SIE GERADE FÜR PLÄNE?": "Ja, immer. Aber gerade darf ich dazu nicht so viel sagen...\nNoch ein bisschen Geduld, dann gibt es News :)",
+    "HAT SIE GERADE PLÄNE?": "Ja, immer. Aber gerade darf ich dazu nicht so viel sagen...\nNoch ein bisschen Geduld, dann gibt es News :)",
+    "HAT MARIE GERADE PLÄNE?": "Ja, immer. Aber gerade darf ich dazu nicht so viel sagen...\nNoch ein bisschen Geduld, dann gibt es News :)",
     "WANN WILL SIE DAS MACHEN?": "Bald.",
     "WANN WILL SIE DAS MACHEN": "Bald.",
     "WIE GEHT ES MARIE?": "Ganz gut gerade. Sie macht ein Praktikum bei der SZ und trainiert neuronale Netze mit TEXTEN.",
@@ -700,9 +700,9 @@
     "HIER KÖNNTE IHRE WERBUNG STEHEN": "Ist eigentlich nur ein Spaß. Aber wenn Du wirklich interessiert bist daran, schreib mir eine %[NACHRICHT](mailto:marie@kilg.de)",
     "HIER KOENNTE IHRE WEBUNG STEHEN": "Ist eigentlich nur ein Spaß. Aber wenn Du wirklich interessiert bist daran, schreib mir eine %[NACHRICHT](mailto:marie@kilg.de)",
 
-    "TAZ": "Bei der taz hat sie ihr erstes Praktikum nach der DJS gemacht. Zuerst war sie 2 Monate bei taz am WOCHENENDE, dann in der ÖKOLOGIE-Redaktion. Danach war sie noch drei Monate lang Redakteurin bei TAZ2.",
-    "TAZ. DIE TAGESZEITUNG": "Bei der taz hat sie ihr erstes Praktikum nach der DJS gemacht. Zuerst war sie 2 Monate bei taz am WOCHENENDE, dann in der ÖKOLOGIE-Redaktion. Danach war sie noch drei Monate lang Redakteurin bei TAZ2.",
-    "TAGESZEITUNG": "Bei der taz hat sie ihr erstes Praktikum nach der DJS gemacht. Zuerst war sie 2 Monate bei taz am WOCHENENDE, dann in der ÖKOLOGIE-Redaktion. Danach war sie noch drei Monate lang Redakteurin bei TAZ2.",
+    "TAZ": "<3\nDie Taz ist toll. Hier hat Marie ihr erstes Praktikum nach der DJS gemacht. Dann konnte sie als Vertretung nochmal verlängern. Insgesamt war sie 7 Monate in verschiedenen Redaktionen, eine tolle Zeit.",
+    "TAZ. DIE TAGESZEITUNG": "<3\nDie Taz ist toll. Hier hat Marie ihr erstes Praktikum nach der DJS gemacht. Dann konnte sie als Vertretung nochmal verlängern. Insgesamt war sie 7 Monate in verschiedenen Redaktionen, eine tolle Zeit.",
+    "TAGESZEITUNG": "<3\nDie Taz ist toll. Hier hat Marie ihr erstes Praktikum nach der DJS gemacht. Dann konnte sie als Vertretung nochmal verlängern. Insgesamt war sie 7 Monate in verschiedenen Redaktionen, eine tolle Zeit.",
 
     "ONLINE": "Wenn Marie sich nicht für Online-Journalismus interessieren würde, dann gäbe es mich nicht :D\nWenn du mehr wissen willst, frag mich zum Beispiel nach FLUX.",
     "INTERNET":  "Wenn Marie sich nicht für Online-Journalismus interessieren würde, dann gäbe es mich nicht :D\nWenn du mehr wissen willst, frag mich zum Beispiel nach FLUX.",
@@ -865,7 +865,7 @@
     "EDV-KENTNISSE": "Gute Kenntnisse in Word, Excel, Powerpoint, Outlook, DigAS, Audacity, Wordpress, Avid, Gimp, HTML5, CSS3; Grundkenntnisse in InDesign, Photoshop, Illustrator, Bootstrap, TYPO3, JavaScript, Node, jQuery",
     
     "TYPO3": "Hat sie gelernt.",
-    "SCRUM": "Damit hat sie keine Erfahrung. Aber mit Design Thinking hat sie gearbeitet",
+    "SCRUM": "Done that.",
     
     "PERSÖNLICHE INTERESSEN": "Fußball, Gitarre, Literatur, Biologie, Physik, Informatik, REISEN",
     "WAS SIND IHRE INTERESSEN?": "Fußball, Gitarre, Literatur, Biologie, Physik, Informatik, REISEN",
@@ -875,9 +875,9 @@
     "WAS TRÄGST DU DRUNTER?": "Hidden layers.\nSpaß, so deep bin ich nicht.",
     
     
-    "VERSION": "MKII Imp2, Script zuletzt aktualisiert am 13.07.17 um 10.20",
+    "VERSION": "MKII Imp2, Script zuletzt aktualisiert am 13.08.17 um 14.31",
     "FUN FACT ZULETZT AKTUALISIERT AM": "19.02.2017",
-    "AKTUELL ZULETZT AKTUALISIERT AM": "30.06.2017",
+    "AKTUELL ZULETZT AKTUALISIERT AM": "13.08.2017",
 
 
     "CONNECT ME": "",
